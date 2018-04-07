@@ -2,7 +2,7 @@
 # text = Рӧдитчи ме шейсят четвёртэй годын октяб тӧлысе тундраын.
 # text_rus = 
 1	Рӧдитчи	рӧдитчыны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
-2	ме	ме	_	Pron	Pers|Sg1|Nom	1	nsubj	_	_
+2	ме	ме	PRON	Pron	Pers|Sg1|Nom	1	nsubj	_	_
 3	шейсят	шейсят	_	Num	Card|Sg|Prl	4	nummod	_	_
 4	четвёртэй	четвёртэй	_	Det	Ord|Abs	5	nummod	_	_
 5	годын	год	NOUN	N	Sg|Ine	1	obl	_	_
@@ -19,7 +19,7 @@
 3	,	,	_	CLB	_	2	punct	_	_
 4	быдтіс	быдтыны	VERB	V	Ind|Prt1|Sg3	2	ccomp	_	_
 5	баб	баб	NOUN	N	Sg|Acc	4	nsubj	_	_
-6	миянӧс	ми	_	Pron	Pers|Pl1|Acc	4	obj	_	SpaceAfter=No
+6	миянӧс	ми	PRON	Pron	Pers|Pl1|Acc	4	obj	_	SpaceAfter=No
 7	.	.	_	CLB	_	2	punct	_	_
 
 # sent_id = missing_id_3
@@ -58,7 +58,7 @@
 # sent_id = missing_id_3
 # text = Сы бӧрын устроитчи рӧбитны, локті ас сиктэ да.
 # text_rus = 
-1	Сы	сійӧ	_	Pron	Pers|Sg3|Cmpl	3	advmod	_	_
+1	Сы	сійӧ	PRON	Pron	Pers|Sg3|Cmpl	3	advmod	_	_
 2	бӧрын	бӧр	ADP	Po	Sg|Ine	1	case	_	_
 3	устроитчи	устроитчыны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
 4	рӧбитны	рӧбитны	VERB	V	Inf	3	xcomp	_	SpaceAfter=No
@@ -90,7 +90,7 @@
 # text_rus = 
 1	Сэсся	сэсся	_	Adv	_	2	advmod	_	_
 2	кувсис	кувсьыны	VERB	V	Refl|Ind|Prt1|Sg3	0	root	_	_
-3	менам	ме	_	Pron	Pers|Sg1|Gen	4	nmod	_	_
+3	менам	ме	PRON	Pron	Pers|Sg1|Gen	4	nmod	_	_
 4	мам	мам	NOUN	N	Sg|Nom	2	nsubj	_	SpaceAfter=No
 5	.	.	_	CLB	_	2	punct	_	_
 
@@ -99,7 +99,7 @@
 # text_eng = And I went to help my father at the tundra.
 # text_rus = 
 1	И	и	_	CC	_	3	mark	_	_
-2	ме	ме	_	Pron	Pers|Sg1|Nom	3	nsubj	_	_
+2	ме	ме	PRON	Pron	Pers|Sg1|Nom	3	nsubj	_	_
 3	петі	петны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
 4	тундраа	тундра	NOUN	N	Sg|Ill	3	obl	_	_
 5	ортсасьны	ортсасьны	VERB	V	Refl|Inf	3	xcomp	_	_
@@ -116,7 +116,7 @@
 5	,	,	_	CLB	_	6	punct	_	_
 6	керка	керка	NOUN	N	Sg|Nom	7	obj	_	_
 7	кари	карны	VERB	V	Ind|Prt1|Sg1	2	ccomp	_	_
-8	аслум	аслум	_	Pron	Refl|Sg1|Dat	9	nmod	_	_
+8	аслум	аслум	PRON	Pron	Refl|Sg1|Dat	9	nmod	_	_
 9	вокъяскед	вок	NOUN	N	Pl|Com	7	obl	_	SpaceAfter=No
 10	,	,	_	CLB	_	11	punct	_	_
 11	дядьяскед	дядь	NOUN	N	Pl|Com	9	conj	_	SpaceAfter=No
@@ -153,7 +153,7 @@
 10	,	,	_	CLB	_	11	punct	_	_
 11	оз	оз	AUX	V	Neg|Ind|Prs|Sg3	12	aux	_	_
 12	вермы	вермыны	VERB	V	ConNeg	1	ccomp	_	_
-13	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	12	nsubj	_	_
+13	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	12	nsubj	_	_
 14	сэтшӧм	сэтшӧм	_	Det	Sg|Nom	15	amod	_	_
 15	условиеясас	условие	NOUN	N	Pl|Ill|PxSg3	12	obl	_	SpaceAfter=No
 16	.	.	_	CLB	_	1	punct	_	_
@@ -253,7 +253,7 @@
 11	кайны	кайны	VERB	V	Inf	10	xcomp	_	SpaceAfter=No
 12	,	,	_	CLB	_	13	punct	_	_
 13	чӧтны	чӧтны	VERB	V	Inf	3	ccomp	_	_
-14	сійӧс	сійӧ	_	Pron	Pers|Sg3|Acc	13	obj	_	_
+14	сійӧс	сійӧ	PRON	Pron	Pers|Sg3|Acc	13	obj	_	_
 15	рӧбетасӧ	рӧбетасӧ	NOUN	N	Acc|PxSg3	13	obj	_	SpaceAfter=No
 16	.	.	_	CLB	_	3	punct	_	_
 
@@ -288,7 +288,7 @@
 # text = Ме рӧдитчылі одиннадцатого мая тысяча девятьсот шестьдесят второй год вылын.
 # text_rus = Я родилась одиннадцатого мая в тысяча девятьсот шестьдесят втором году.
 # text_eng = I was born on the 11th of May, 1961.
-1	Ме	ме	_	Pron	Pers|Sg1|Nom	2	nsubj	_	_
+1	Ме	ме	PRON	Pron	Pers|Sg1|Nom	2	nsubj	_	_
 2	рӧдитчылі	рӧдитчывны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
 3	одиннадцатого	одиннадцатого	_	A	Gen	4	amod	_	_
 4	мая	мая	NOUN	N	Sg|Gen	2	obl	_	_
@@ -309,7 +309,7 @@
 3	,	,	_	CLB	_	4	punct	_	_
 4	Ляпиныс	Ляпин	PROPN	N	Prop|Sg|Nom|PxSg3	2	ccomp	_	_
 5	-	-	_	PUNCT	_	6	punct	_	_
-6	сыа	сыа	_	Pron	Pers|Sg3|Nom	8	nsubj	_	_
+6	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	8	nsubj	_	_
 7	стариннэй	стариннӧй	_	A	Abs	8	amod	_	_
 8	название	название	NOUN	N	Sg|Nom	4	conj	_	SpaceAfter=No
 9	,	,	_	CLB	_	10	punct	_	_
@@ -332,7 +332,7 @@
 # text = Ми квайтэнэсь семьяанум.
 # text_rus = Нас в семье шестеро.
 # text_eng = We were 6 children in my family.
-1	Ми	ми	_	Pron	Pers|Pl1|Nom	3	nsubj	_	_
+1	Ми	ми	PRON	Pron	Pers|Pl1|Nom	3	nsubj	_	_
 2	квайтэнэсь	квайтэнэсь	_	Num	Pl|Ins	3	nummod	_	_
 3	семьяанум	семьяанум	NOUN	N	Sg|Nom|PxPl1	0	root	_	SpaceAfter=No
 4	.	.	_	CLB	_	3	punct	_	_
@@ -354,9 +354,9 @@
 # text = Ми, ме рӧдитчылі, ае и маме, ае немсэ рӧбитэма кӧрдорын и рӧбитіс.
 # text_rus = Мы, я родилась, мои родители, мой отец всю жизнь работал в тундре.
 # text_eng = We, I was born, my parents, my father worked all his life in tundra.
-1	Ми	ми	_	Pron	Pers|Pl1|Nom	3	conj	_	SpaceAfter=No
+1	Ми	ми	PRON	Pron	Pers|Pl1|Nom	3	conj	_	SpaceAfter=No
 2	,	,	_	CLB	_	1	punct	_	_
-3	ме	ме	_	Pron	Pers|Sg1|Nom	4	nsubj	_	_
+3	ме	ме	PRON	Pron	Pers|Sg1|Nom	4	nsubj	_	_
 4	рӧдитчылі	рӧдитчывны	VERB	V	Ind|Prt1|Sg1	0	root	_	SpaceAfter=No
 5	,	,	_	CLB	_	6	punct	_	_
 6	ае	ай	NOUN	N	Sg|Nom|PxSg1	4	xcomp	_	_
@@ -379,7 +379,7 @@
 2	,	,	_	CLB	_	1	x	_	_
 3	значит	значит	_	Pcle	_	10	advmod	_	SpaceAfter=No
 4	,	,	_	CLB	_	3	x	_	_
-5	сыа	сыа	_	Pron	Pers|Sg3|Nom	10	nsubj	_	_
+5	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	10	nsubj	_	_
 6	вӧйна	вӧйна	NOUN	N	Sg|Nom	10	obl	_	_
 7	вылэ	выв	ADP	Po	Sg|Ill	6	case	_	_
 8	зэй	зэй	_	Adv	_	9	x	_	_
@@ -411,7 +411,7 @@
 7	воома	воома	VERB	V	Prt2|Sg3	2	ccomp	_	_
 8	повесткаыс	повестка	NOUN	N	Sg|Nom|PxSg3	7	nsubj	_	SpaceAfter=No
 9	,	,	_	CLB	_	10	punct	_	_
-10	сыа	сыа	_	Pron	Pers|Sg3|Nom	13	nsubj	_	_
+10	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	13	nsubj	_	_
 11	сорок	сорок	_	Num	_	12	nummod	_	_
 12	первей	первей	_	A	_	13	nummod	_	_
 13	год	год	NOUN	N	Sg|Nom	2	ccomp	_	_
@@ -463,7 +463,7 @@
 19	,	,	_	CLB	_	20	punct	_	_
 20	и	и	_	CC	_	21	cc	_	_
 21	вӧюйтіс	вӧюйтіс	VERB	V	Ind|Prt1|Sg3	18	ccomp	_	_
-22	сыа	сыа	_	Pron	Pers|Sg3|Nom	21	nsubj	_	_
+22	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	21	nsubj	_	_
 23	Ленинградскей	Ленинградскей	_	A	_	24	amod	_	_
 24	фронт	фронт	NOUN	N	Sg|Nom	21	obl	_	_
 25	вылын	вылын	ADP	Po	Sg|Ine	24	case	_	SpaceAfter=No
@@ -474,7 +474,7 @@
 # text_rus = Я родилась во время начала каслания.
 # text_eng = 
 1	Рӧдитчи	рӧдитчыны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
-2	ме	ме	_	Pron	Pers|Sg1|Nom	1	nsubj	_	_
+2	ме	ме	PRON	Pron	Pers|Sg1|Nom	1	nsubj	_	_
 3	вӧрзялыгдырйи	вӧрзялыгдырйи	VERB	V	Ger	1	advmod	_	SpaceAfter=No
 4	.	.	_	CLB	_	1	punct	_	_
 
@@ -483,14 +483,14 @@
 # text_rus = Когда наши родители начали каслать, ну стадо у нас (было) в колхозе "Красный Октябрь", да?
 # text_eng = 
 1	Кор	кор	_	Adv	Rel	4	advmod	_	_
-2	миян	ми	_	Pron	Pers|Pl1|Gen	3	nmod	_	_
+2	миян	ми	PRON	Pron	Pers|Pl1|Gen	3	nmod	_	_
 3	ае-маме	ае-маме	NOUN	N	Sg|Nom|PxSg1	4	nsubj	_	_
 4	вӧрзисныс	вӧрзисныс	VERB	V	Ind|Prt1|Pl3	0	root	_	SpaceAfter=No
 5	,	,	_	CLB	_	6	punct	_	_
 6	но	но	_	CC	_	8	cc	_	SpaceAfter=No
 7	,	,	_	CLB	_	6	punct	_	_
 8	стадыс	стадыс	NOUN	N	Sg|Nom|PxSg3	4	ccomp	_	_
-9	миян	ми	_	Pron	Pers|Pl1|Gen	8	nmod	_	SpaceAfter=No
+9	миян	ми	PRON	Pron	Pers|Pl1|Gen	8	nmod	_	SpaceAfter=No
 10	,	,	_	CLB	_	11	punct	_	_
 11	колхоз	колхоз	NOUN	N	Abs	8	nsubj	_	_
 12	Красный	Красный	PROPN	N	Prop|Sg|Acc	11	nmod	_	_
@@ -523,9 +523,9 @@
 # text_rus = И это, у нас всегда каслали за Урал.
 # text_eng = 
 1	И	и	_	CC	_	2	cc	_	_
-2	этія	этія	_	Pron	_	6	discourse	_	SpaceAfter=No
+2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
 3	,	,	_	CLB	_	4	punct	_	_
-4	миян	ми	_	Pron	Pers|Pl1|Gen	6	nsubj	_	_
+4	миян	ми	PRON	Pron	Pers|Pl1|Gen	6	nsubj	_	_
 5	ӧттӧрйи	ӧттӧрйи	_	Adv	_	6	advmod	_	_
 6	вӧрзялісныс	вӧрзялісныс	VERB	V	Ind|Prt1|Pl3	0	root	_	_
 7	Из	из	PROPN	N	Abs	6	obl	_	_
@@ -610,7 +610,7 @@
 1	И	и	_	CC	_	8	cc	_	_
 2	сэк	сэк	_	Adv	_	8	advmod	_	_
 3	и	и	_	Pcle	_	4	discourse	_	_
-4	ме	ме	_	Pron	Pers|Sg1|Nom	8	nsubj	_	_
+4	ме	ме	PRON	Pron	Pers|Sg1|Nom	8	nsubj	_	_
 5	сэн	сэн	_	Adv	_	8	advmod	_	_
 6	самей	сам	_	Adv	_	8	advmod	_	_
 7	и	и	_	Pcle	_	6	discourse	_	_
@@ -628,7 +628,7 @@
 5	,	,	_	CLB	_	6	punct	_	_
 6	но	но	_	CC	_	9	cc	_	SpaceAfter=No
 7	,	,	_	CLB	_	8	punct	_	_
-8	кодке	кодке	_	Pron	_	9	nsubj	_	_
+8	кодке	кодке	PRON	Pron	_	9	nsubj	_	_
 9	висьт-	висьт-	VERB	V	_	15	reparandum	_	SpaceAfter=No
 10	,	,	_	CLB	_	11	punct	_	_
 11	Микул	Микул	PROPN	N	Prop|Sg|Nom	12	nmod	_	_
@@ -646,7 +646,7 @@
 # text_eng = 
 1	Ас	ас	_	A	Refl|Abs	5	conj	_	SpaceAfter=No
 2	,	,	_	CLB	_	1	punct	_	_
-3	мыйке	мыйке	_	Pron	_	1	discourse	_	SpaceAfter=No
+3	мыйке	мыйке	PRON	Pron	_	1	discourse	_	SpaceAfter=No
 4	,	,	_	CLB	_	5	punct	_	_
 5	ас	ас	_	A	Refl|Abs	6	nmod	_	_
 6	муас	му	NOUN	N	Sg|Ill|PxSg3	7	obl	_	_
@@ -672,7 +672,7 @@
 # text_rus = Так что, в никакие иностранные места не езжу.
 # text_eng = 
 1	Так	так	_	Pcle	_	8	mark	_	_
-2	что	что	_	Pron	_	1	fixed	_	SpaceAfter=No
+2	что	что	PRON	Pron	_	1	fixed	_	SpaceAfter=No
 3	,	,	_	CLB	_	2	punct	_	_
 4	никучем	никучем	_	Pron	Neg	5	advmod	_	_
 5	иностраннэй	иностраннӧй	_	A	Abs	6	advmod	_	_
@@ -699,7 +699,7 @@
 12	,	,	_	CLB	_	13	punct	_	_
 13	да	да	_	CS	_	11	discourse	_	SpaceAfter=No
 14	,	,	_	CLB	_	15	punct	_	_
-15	менам	ме	_	Pron	Pers|Sg1|Gen	11	nmod	_	_
+15	менам	ме	PRON	Pron	Pers|Sg1|Gen	11	nmod	_	_
 16	сэн	сэн	_	Adv	_	18	advmod	_	_
 17	нин	нин	_	Pcle	_	18	advmod	_	_
 18	воссис	воссьыны	VERB	V	Refl|Ind|Prt1|Sg3	4	advcl	_	_
@@ -717,16 +717,16 @@
 5	местэам	местэам	NOUN	N	Sg|Ill|PxSg1	3	obl	_	SpaceAfter=No
 6	,	,	_	CLB	_	7	punct	_	_
 7	а	а	_	CC	_	9	cc	_	_
-8	мӧд	мӧд	_	Pron	Dem	9	dep	_	_
+8	мӧд	мӧд	PRON	Pron	Dem	9	dep	_	_
 9	луннас	лун	NOUN	N	Sg|Ins|PxSg3	3	ccomp	_	_
-10	ми	ми	_	Pron	Pers|Pl1|Nom	15	nsubj	_	_
+10	ми	ми	PRON	Pron	Pers|Pl1|Nom	15	nsubj	_	_
 11	уже	уже	_	Adv	_	15	advmod	_	SpaceAfter=No
 12	,	,	_	CLB	_	11	punct	_	_
 13	абу	абу	_	Pcle	Neg	15	cop	_	_
 14	мӧд	мӧдны	_	Num	_	15	det	_	_
 15	луннас-а	луннас	_	Adv	Clt/а	22	csubj	_	SpaceAfter=No
 16	,	,	_	CLB	_	15	punct	_	_
-17	сы	сійӧ	_	Pron	Dem	18	det	_	_
+17	сы	сійӧ	PRON	Pron	Dem	18	det	_	_
 18	луннас	луннас	_	Adv	_	15	conj	_	_
 19	же	же	_	Pcle	_	18	advmod	_	_
 20	вот	вот	_	Pcle	_	22	discourse	_	SpaceAfter=No
@@ -742,12 +742,12 @@
 # text_eng =
 1	Из	из	PROPN	N	Prop|Nom	0	root	_	_
 2	сайын	сайын	ADP	Po	Sg|Ine	1	case	_	_
-3	сыа	сыа	_	Pron	Pers|Sg3|Nom	1	nsubj	_	SpaceAfter=No
+3	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	1	nsubj	_	SpaceAfter=No
 4	,	,	_	CLB	_	3	punct	_	_
 5	так	так	_	CS	_	10	mark	_	_
 6	что	что	ADP	Po	_	5	fixed	_	SpaceAfter=No
 7	,	,	_	CLB	_	6	punct	_	_
-8	меам	меам	_	Pron	Pers|Sg1|Gen	9	nmod	_	_
+8	меам	меам	PRON	Pron	Pers|Sg1|Gen	9	nmod	_	_
 9	Салехард	Салехард	PROPN	N	Prop|Sg|Nom	10	nmod	_	_
 10	местэыс	местэыс	NOUN	N	Sg|Nom|PxSg3	3	conj	_	_
 11	тоже	тоже	_	Adv	_	10	advmod	_	_
@@ -768,7 +768,7 @@
 6	сэн	сэн	_	Adv	_	7	advmod	_	_
 7	лоас	лоны	VERB	V	Ind|Fut|Sg3	5	cop	_	SpaceAfter=No
 8	,	,	_	CLB	_	9	punct	_	_
-9	сыа	сыа	_	Pron	_	5	conj	_	_
+9	сыа	сыа	PRON	Pron	_	5	conj	_	_
 10	и	и	_	Pcle	_	11	discourse	_	_
 11	лоас	лоны	VERB	V	Ind|Fut|Sg3	9	cop	_	SpaceAfter=No
 12	.	.	_	CLB	_	5	punct	_	_
@@ -785,10 +785,10 @@
 6	баб	баб	NOUN	N	Sg|Nom	0	root	_	_
 7	вӧліс	вӧвны	VERB	V	Ind|Prt1|Sg3	6	aux	_	SpaceAfter=No
 8	:	:	_	CLB	_	6	punct	_	_
-9	сыа	сыа	_	Pron	Pers|Sg3|Nom	12	nsubj	_	_
+9	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	12	nsubj	_	_
 10	зэй	зэй	_	Adv	_	12	advmod	_	_
 11	уна	уна	_	Qnt	Sg|Nom	12	advmod	_	_
-12	мыйке	мыйке	_	Pron	_	6	parataxis	_	SpaceAfter=No
+12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	_	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Sg|Nom	15	obj	_	_
 15	босьтіс	босьтны	VERB	V	Ind|Prt1|Sg3	12	conj	_	SpaceAfter=No
@@ -848,16 +848,16 @@
 # text_rus = И она сама ходила, это, к женщинам или к ней приводили, чтобы она приняла ребенка?
 # text_eng = 
 1	И	и	_	CC	_	4	cc	_	_
-2	сыа	сыа	_	Pron	Pers|Sg3|Nom	4	nsubj	_	_
-3	ачыс	ас	_	Pron	Refl|Sg3|Nom	4	nmod	_	_
+2	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	4	nsubj	_	_
+3	ачыс	ас	PRON	Pron	Refl|Sg3|Nom	4	nmod	_	_
 4	ветліс	ветлыны	VERB	V	Ind|Prt1|Sg3	0	root	_	SpaceAfter=No
 5	,	,	_	CLB	_	6	punct	_	_
-6	эта	этайӧ	_	Pron	Dem|Sg|Cmpl	4	discourse	_	SpaceAfter=No
+6	эта	этайӧ	PRON	Pron	Dem|Sg|Cmpl	4	discourse	_	SpaceAfter=No
 7	,	,	_	CLB	_	6	punct	_	_
 8	бабаясыс	баба	NOUN	N	Pl|Nom|PxSg3	4	obl	_	_
 9	доре	дор	ADP	Po	Relat|Sg|Ill	8	case	_	_
 10	или	или	_	CC	_	13	cc	_	_
-11	сы	сійӧ	_	Pron	Pron	13	obl	_	_
+11	сы	сійӧ	PRON	Pron	Pron	13	obl	_	_
 12	доре	дор	ADP	Po	Relat|Sg|Ill	11	case	_	_
 13	ваедісны	ваедны	VERB	V	Ind|Prt1|Pl3	4	conj	_	SpaceAfter=No
 14	,	,	_	CLB	_	15	punct	_	_
@@ -872,14 +872,14 @@
 # text_eng =
 1	Но	но	_	Pcle	_	6	cc	_	SpaceAfter=No
 2	,	,	_	CLB	_	1	punct	_	_
-3	сыа	сыа	_	Pron	Pers|Sg3|Nom	6	nsubj	_	_
+3	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	6	nsubj	_	_
 4	вед	вед	_	Pcle	_	6	discourse	_	_
 5	няпойнэй	няпойнэй	_	A	_	6	amod	_	_
 6	чом	чом	NOUN	N	Sg|Nom	0	root	_	SpaceAfter=No
 7	,	,	_	CLB	_	8	punct	_	_
 8	да	да	_	CS	_	12	cc	_	SpaceAfter=No
 9	,	,	_	CLB	_	8	punct	_	_
-10	сыа	сыа	_	Pron	Pers|Sg3|Nom	12	nsubj	_	_
+10	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	12	nsubj	_	_
 11	походнэй	походнэй	_	A	_	12	amod	_	_
 12	чом	чом	NOUN	N	Sg|Nom	6	conj	_	_
 13	вӧліс	вӧвны	VERB	V	Ind|Prt1|Sg3	12	aux	_	SpaceAfter=No
