@@ -14,7 +14,7 @@
 # sent_id = missing_id_2
 # text = Сэсся велэдчи, быдтіс баб миянумес. 
 # text_rus = 
-1	Сэсся	сэсся	_	Adv	_	2	advmod	_	_
+1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
 2	велӧдчи	велӧдчыны	VERB	V	Refl|Ind|Prt1|Sg1	0	root	_	SpaceAfter=No
 3	,	,	_	CLB	_	2	punct	_	_
 4	быдтіс	быдтыны	VERB	V	Ind|Prt1|Sg3	2	ccomp	_	_
@@ -32,7 +32,7 @@
 5	,	,	_	CLB	_	6	punct	_	_
 6	гожемъяснас	гожемъяснас	NOUN	N	Sg|Pl|Ins|PxSg3	12	obl	_	SpaceAfter=No
 7	,	,	_	CLB	_	8	punct	_	_
-8	правда	правда	_	Adv	_	12	advmod	_	SpaceAfter=No
+8	правда	правда	ADV	Adv	_	12	advmod	_	SpaceAfter=No
 9	,	,	_	CLB	_	10	punct	_	_
 10	быд	быд	_	Pron	Sg|Nom	11	det	_	_
 11	гожем	гожем	NOUN	N	Sg|Nom	12	obl	_	_
@@ -88,7 +88,7 @@
 # sent_id = missing_id_5
 # text = Сэсся кувсис менам мам.
 # text_rus = 
-1	Сэсся	сэсся	_	Adv	_	2	advmod	_	_
+1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
 2	кувсис	кувсьыны	VERB	V	Refl|Ind|Prt1|Sg3	0	root	_	_
 3	менам	ме	PRON	Pron	Pers|Sg1|Gen	4	nmod	_	_
 4	мам	мам	NOUN	N	Sg|Nom	2	nsubj	_	SpaceAfter=No
@@ -194,7 +194,7 @@
 3	ӧкмыс	ӧкмыс	_	Num	Card|Abs	4	nummod	_	_
 4	во	во	NOUN	N	Sg|Nom	1	nmod	_	SpaceAfter=No
 5	,	,	_	CLB	_	6	punct	_	_
-6	навернӧ	навернӧ	_	Adv	_	1	advmod	_	SpaceAfter=No
+6	навернӧ	навернӧ	ADV	Adv	_	1	advmod	_	SpaceAfter=No
 7	,	,	_	CLB	_	8	punct	_	_
 8	кочегариті	кочегаритны	VERB	V	Ind|Prt1|Sg1	1	conj	_	SpaceAfter=No
 9	.	.	_	CLB	_	1	punct	_	_
@@ -203,8 +203,8 @@
 # text = А эні нин сизим во кудз висены кокъясэ и ог вермы ветлыны, веське с удовольствием пета тундраа, но…
 # text_rus = 
 1	А	а	_	CC	_	2	mark	_	_
-2	эні	эні	_	Adv	_	7	advmod	_	_
-3	нин	нин	_	Adv	_	2	advmod	_	_
+2	эні	эні	ADV	Adv	_	7	advmod	_	_
+3	нин	нин	ADV	Adv	_	2	advmod	_	_
 4	сизим	сизим	_	Num	Card|Abs	5	nummod	_	_
 5	во	во	NOUN	N	Abs	7	nmod	_	_
 6	кудз	кудз	_	Adv	_	7	advmod	_	_
@@ -227,10 +227,10 @@
 # sent_id = missing_id_15
 # text = Медбӧрын лэччылі Нярьян-Маре тоже оленеводствоо, Нарьян-Марскей ОПХ-а.
 # text_rus = 
-1	Медбӧрын	медбӧрын	_	Adv	Ine	2	advmod	_	_
+1	Медбӧрын	медбӧрын	ADV	Adv	Ine	2	advmod	_	_
 2	лэччылі	лэччывны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
 3	Нярьян-Маре	Нярьян-Мар	PROPN	N	Sg|Ill	2	obl	_	_
-4	тоже	тоже	_	Adv	_	2	advmod	_	_
+4	тоже	тоже	ADV	Adv	_	2	advmod	_	_
 5	оленеводствоо	оленеводство	NOUN	N	Sg|Ill	2	obl	_	SpaceAfter=No
 6	,	,	_	CLB	_	7	punct	_	_
 7	Нарьян-Марскей	Нарьян-Марскей	_	A	_	8	amod	_	_
@@ -246,7 +246,7 @@
 4	,	,	_	CLB	_	5	punct	_	_
 5	кокъясӧ	кок	NOUN	N	Pl|Ill	6	obl	_	_
 6	висьмисны	висьмыны	VERB	V	Ind|Prt1|Pl3	3	ccomp	_	_
-7	дзикедз	дзикедз	_	Adv	Ter	6	advmod	_	SpaceAfter=No
+7	дзикедз	дзикедз	ADV	Adv	Ter	6	advmod	_	SpaceAfter=No
 8	,	,	_	CLB	_	9	punct	_	_
 9	и	и	_	CC	_	10	mark	_	_
 10	приведитчис	приведитчыны	VERB	V	Ind|Prt1|Sg3	3	ccomp	_	_
@@ -261,7 +261,7 @@
 # text = Вот эні гортын сизим во нин, сизимед во нин, инвалидность вылын.
 # text_rus = 
 1	Вот	вот	_	Pcle	_	2	discourse	_	_
-2	эні	эні	_	Adv	_	5	advmod	_	_
+2	эні	эні	ADV	Adv	_	5	advmod	_	_
 3	гортын	горт	NOUN	N	Sg|Ine	5	obl	_	_
 4	сизим	сизим	_	Num	Card|Abs	5	nummod	_	_
 5	во	во	NOUN	N	Abs	0	root	_	_
@@ -314,7 +314,7 @@
 8	название	название	NOUN	N	Sg|Nom	4	conj	_	SpaceAfter=No
 9	,	,	_	CLB	_	10	punct	_	_
 10	а	а	_	CC	_	14	mark	_	_
-11	эні	эні	_	Adv	_	14	advmod	_	_
+11	эні	эні	ADV	Adv	_	14	advmod	_	_
 12	современнэй	современнэй	_	A	_	13	nmod	_	_
 13	кылэн	кы	NOUN	N	Sg|Ins	14	obl	_	_
 14	шуэныс	шуэныс	VERB	V	Ind|Prs|Pl3	1	ccomp	_	_
@@ -375,15 +375,15 @@
 # text = Эсся, значит, сыа вӧйна вылэ зэй водз сюрліс, дас сизим, дас кӧкъямыс аресэн только, только волэма.
 # text_rus = Затем, значит, он был на войне очень молодым, ему было только семнадцать, восемнадцать лет.
 # text_eng = Then, so, at the war time he was very young, he was only 17, 18-year-old.
-1	Эсся	эсся	_	Adv	_	10	advmod	_	SpaceAfter=No
+1	Эсся	эсся	ADV	Adv	_	10	advmod	_	SpaceAfter=No
 2	,	,	_	CLB	_	1	x	_	_
 3	значит	значит	_	Pcle	_	10	advmod	_	SpaceAfter=No
 4	,	,	_	CLB	_	3	x	_	_
 5	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	10	nsubj	_	_
 6	вӧйна	вӧйна	NOUN	N	Sg|Nom	10	obl	_	_
 7	вылэ	выв	ADP	Po	Sg|Ill	6	case	_	_
-8	зэй	зэй	_	Adv	_	9	x	_	_
-9	водз	водз	_	Adv	Sg|Nom	10	advmod	_	_
+8	зэй	зэй	ADV	Adv	_	9	x	_	_
+9	водз	водз	ADV	Adv	Sg|Nom	10	advmod	_	_
 10	сюрліс	сюрлыны	VERB	V	Ind|Prt1|Sg3	0	_	_	SpaceAfter=No
 11	,	,	_	CLB	_	12	punct	_	_
 12	дас	дас	_	Num	Card|Sg|Nom	13	_	_	_
@@ -392,9 +392,9 @@
 15	дас	дас	_	Num	Card|Sg|Nom	16	_	_	_
 16	кӧкъямыс	кӧкъямыс	_	Num	Card|Sg|Nom	17	_	_	_
 17	аресэн	аресэн	NOUN	N	Sg|Ins	21	advmod	_	_
-18	только	только	_	Adv	_	21	advmod	_	SpaceAfter=No
+18	только	только	ADV	Adv	_	21	advmod	_	SpaceAfter=No
 19	,	,	_	CLB	_	20	x	_	_
-20	только	только	_	Adv	_	21	x	_	_
+20	только	только	ADV	Adv	_	21	x	_	_
 21	волэма	волыны	VERB	V	Ind|Prt2|Sg3	0	_	_	SpaceAfter=No
 22	.	.	_	CLB	_	10	x	_	_
 
@@ -526,7 +526,7 @@
 2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
 3	,	,	_	CLB	_	4	punct	_	_
 4	миян	ми	PRON	Pron	Pers|Pl1|Gen	6	nsubj	_	_
-5	ӧттӧрйи	ӧттӧрйи	_	Adv	_	6	advmod	_	_
+5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod	_	_
 6	вӧрзялісныс	вӧрзялісныс	VERB	V	Ind|Prt1|Pl3	0	root	_	_
 7	Из	из	PROPN	N	Abs	6	obl	_	_
 8	сае	сай	ADP	Po	Relat|Sg|Ill	7	case	_	SpaceAfter=No
@@ -537,8 +537,8 @@
 # text_rus = И сейчас тоже начали каслать.
 # text_eng = 
 1	И	и	_	CC	_	5	cc	_	_
-2	ӧні	ӧні	_	Adv	_	5	advmod	_	_
-3	бара	бара	_	Adv	_	5	advmod	_	_
+2	ӧні	ӧні	ADV	Adv	_	5	advmod	_	_
+3	бара	бара	ADV	Adv	_	5	advmod	_	_
 4	же	же	_	Pcle	_	3	goeswith	_	_
 5	мӧдісныс	мӧдісныс	VERB	V	Ind|Prt1|Pl3	0	root	_	_
 6	вӧрзёоны	вӧрзёоны	VERB	V	Inf	5	xcomp	_	SpaceAfter=No
@@ -552,18 +552,18 @@
 2	маме	мам	NOUN	N	Sg|PxSg1	5	nsubj	_	_
 3	как	как	_	CS	_	5	advmod	_	_
 4	раз	раз	NOUN	N	Sg|Nom	3	fixed	_	_
-5	тыра	тыр	_	Adv	_	0	root	_	_
+5	тыра	тыр	ADV	Adv	_	0	root	_	_
 6	вӧліс	вӧвны	VERB	V	Ind|Prt1|Sg3	5	cop	_	SpaceAfter=No
 7	,	,	_	CLB	_	8	punct	_	_
 8	думайтэныс	думайтэныс	VERB	V	Ind|Prt1|Pl3	5	ccomp	_	SpaceAfter=No
 9	,	,	_	CLB	_	10	punct	_	_
-10	гашке	гашке	_	Adv	_	12	advmod	_	SpaceAfter=No
+10	гашке	гашке	ADV	Adv	_	12	advmod	_	SpaceAfter=No
 11	,	,	_	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Ind|Prs|Pl1	8	advcl	_	_
 13	да	да	_	Pcle	_	12	discourse	_	_
 14	и	и	_	Pcle	_	13	goeswith	_	SpaceAfter=No
 15	,	,	_	CLB	_	16	punct	_	_
-16	ничего	ничего	_	Adv	_	19	advmod	_	SpaceAfter=No
+16	ничего	ничего	ADV	Adv	_	19	advmod	_	SpaceAfter=No
 17	,	,	_	CLB	_	18	punct	_	_
 18	бур	бур	_	A	Sg|Nom	8	amod	_	_
 19	лоо	лоны	VERB	V	Ind|Prs|Sg3	18	cop	_	_
@@ -577,7 +577,7 @@
 # text_eng = 
 1	Ну	ну	_	Pcle	_	4	cc	_	SpaceAfter=No
 2	,	,	_	CLB	_	1	punct	_	_
-3	только	только	_	Adv	_	4	advmod	_	_
+3	только	только	ADV	Adv	_	4	advmod	_	_
 4	вӧрземаась	вӧрземаась	VERB	V	_	0	root	_	SpaceAfter=No
 5	,	,	_	CLB	_	6	punct	_	_
 6	и	и	_	CC	_	8	mark	_	_
@@ -592,7 +592,7 @@
 1	Пургамема	пургамны	VERB	V	Ind|Prt2|Sg3	0	root	_	SpaceAfter=No
 2	,	,	_	CLB	_	3	punct	_	_
 3	и	и	_	CC	_	5	cc	_	_
-4	бӧр	бӧр	_	Adv	Relat|Sg|Nom	5	advmod	_	_
+4	бӧр	бӧр	ADV	Adv	Relat|Sg|Nom	5	advmod	_	_
 5	косісны	косны	VERB	V	Ind|Prt1|Pl3	1	ccomp	_	_
 6	чом	чом	NOUN	N	Sg|Nom	7	nmod	_	_
 7	местэас	местэас	NOUN	N	Sg|Ill|PxSg3	5	obl	_	SpaceAfter=No
@@ -608,7 +608,7 @@
 # text_rus = И тогда и я именно там и родилась.
 # text_eng = 
 1	И	и	_	CC	_	8	cc	_	_
-2	сэк	сэк	_	Adv	_	8	advmod	_	_
+2	сэк	сэк	ADV	Adv	_	8	advmod	_	_
 3	и	и	_	Pcle	_	4	discourse	_	_
 4	ме	ме	PRON	Pron	Pers|Sg1|Nom	8	nsubj	_	_
 5	сэн	сэн	_	Adv	_	8	advmod	_	_
@@ -687,7 +687,7 @@
 # text_eng =
 1	Из	из	PROPN	N	Abs	4	obl	_	_
 2	сае	сай	ADP	Po	Relat|Sg|Ill	1	case	_	_
-3	токо	токо	_	Adv	_	4	advmod	_	_
+3	токо	токо	ADV	Adv	_	4	advmod	_	_
 4	ветлала	ветлыны	VERB	V	Ind|Prs|Sg1	0	root	_	SpaceAfter=No
 5	,	,	_	CLB	_	6	punct	_	_
 6	потому	потому	_	CS	_	11	mark	_	_
@@ -720,19 +720,19 @@
 8	мӧд	мӧд	PRON	Pron	Dem	9	dep	_	_
 9	луннас	лун	NOUN	N	Sg|Ins|PxSg3	3	ccomp	_	_
 10	ми	ми	PRON	Pron	Pers|Pl1|Nom	15	nsubj	_	_
-11	уже	уже	_	Adv	_	15	advmod	_	SpaceAfter=No
+11	уже	уже	ADV	Adv	_	15	advmod	_	SpaceAfter=No
 12	,	,	_	CLB	_	11	punct	_	_
 13	абу	абу	_	Pcle	Neg	15	cop	_	_
 14	мӧд	мӧдны	_	Num	_	15	det	_	_
-15	луннас-а	луннас	_	Adv	Clt/а	22	csubj	_	SpaceAfter=No
+15	луннас-а	луннас	NOUN	N	Sg|Ins|PxSg3|Clt/а	22	csubj	_	SpaceAfter=No
 16	,	,	_	CLB	_	15	punct	_	_
 17	сы	сійӧ	PRON	Pron	Dem	18	det	_	_
-18	луннас	луннас	_	Adv	_	15	conj	_	_
+18	луннас	луннас	NOUN	N	Sg|Ins|PxSg3	15	conj	_	_
 19	же	же	_	Pcle	_	18	advmod	_	_
 20	вот	вот	_	Pcle	_	22	discourse	_	SpaceAfter=No
 21	,	,	_	CLB	_	20	punct	_	_
 22	тытэн	тытэн	_	Adv	_	3	advcl	_	_
-23	нин	нин	_	Adv	_	22	advmod	_	_
+23	нин	нин	ADV	Adv	_	22	advmod	_	_
 24	вӧлі	вӧвны	VERB	V	Ind|Prt1|Sg3	22	cop	_	SpaceAfter=No
 25	.	.	_	CLB	_	3	punct	_	_
 
@@ -750,7 +750,7 @@
 8	меам	меам	PRON	Pron	Pers|Sg1|Gen	9	nmod	_	_
 9	Салехард	Салехард	PROPN	N	Prop|Sg|Nom	10	nmod	_	_
 10	местэыс	местэыс	NOUN	N	Sg|Nom|PxSg3	3	conj	_	_
-11	тоже	тоже	_	Adv	_	10	advmod	_	_
+11	тоже	тоже	ADV	Adv	_	10	advmod	_	_
 12	рӧднэй	рӧднӧй	_	A	Abs	13	amod	_	_
 13	рӧдина	рӧдина	NOUN	N	Sg|Nom	10	nmod	_	_
 14	койд	койд	ADP	Po	_	13	case	_	SpaceAfter=No
@@ -786,7 +786,7 @@
 7	вӧліс	вӧвны	VERB	V	Ind|Prt1|Sg3	6	aux	_	SpaceAfter=No
 8	:	:	_	CLB	_	6	punct	_	_
 9	сыа	сыа	PRON	Pron	Pers|Sg3|Nom	12	nsubj	_	_
-10	зэй	зэй	_	Adv	_	12	advmod	_	_
+10	зэй	зэй	ADV	Adv	_	12	advmod	_	_
 11	уна	уна	_	Qnt	Sg|Nom	12	advmod	_	_
 12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	_	CLB	_	14	punct	_	_
@@ -840,7 +840,7 @@
 7	роч	роч	NOUN	N	Sg|Nom	8	nmod	_	_
 8	кыы	кыы	NOUN	N	_	1	ccomp	_	_
 9	да	да	_	CC	_	10	cc	_	_
-10	мыйке-майда	мыйке-майда	_	Adv	_	8	conj	_	SpaceAfter=No|Note=Check
+10	мыйке-майда	мыйке-майда	ADV	Adv	_	8	conj	_	SpaceAfter=No|Note=Check
 11	.	.	_	CLB	_	1	punct	_	_
 
 # sent_id = missing_id_47
@@ -861,7 +861,7 @@
 12	доре	дор	ADP	Po	Relat|Sg|Ill	11	case	_	_
 13	ваедісны	ваедны	VERB	V	Ind|Prt1|Pl3	4	conj	_	SpaceAfter=No
 14	,	,	_	CLB	_	15	punct	_	_
-15	медланнэ	медланнэ	_	Adv	_	16	advmod	_	_
+15	медланнэ	медланнэ	ADV	Adv	_	16	advmod	_	_
 16	примитіс	примитны	VERB	V	Ind|Prt1|Sg3	4	ccomp	_	_
 17	челядьсэ	челядь	NOUN	N	Sg|Acc|PxSg3	16	obj	_	SpaceAfter=No
 18	?	?	_	CLB	_	4	punct	_	_
@@ -884,7 +884,7 @@
 12	чом	чом	NOUN	N	Sg|Nom	6	conj	_	_
 13	вӧліс	вӧвны	VERB	V	Ind|Prt1|Sg3	12	aux	_	SpaceAfter=No
 14	,	,	_	CLB	_	15	punct	_	_
-15	только-только	только-только	_	Adv	_	16	advmod	_	_
+15	только-только	только-только	ADV	Adv	_	16	advmod	_	_
 16	пуктыны	пуктыны	VERB	V	Inf	6	ccomp	_	_
 17	и	и	_	Pcle	_	18	cc	_	_
 18	мӧдасы	мӧдны	VERB	V	Ind|Fut|Pl3	16	conj	_	_
