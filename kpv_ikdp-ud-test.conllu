@@ -71,14 +71,14 @@
 
 # sent_id = missing_id_4
 # text = Телевидение, ой, телевышка, телестанция вылын рӧбиті кык во.
-# text_rus = 
-1	Телевидение	телевидение	NOUN	N	Sg|Nom	7	conj	_	SpaceAfter=No
+# text_rus =
+1	Телевидение	телевидение	NOUN	N	Sg|Nom	9	obl	_	SpaceAfter=No
 2	,	,	_	CLB	_	3	punct	_	_
-3	ой	ой	_	Interj	_	9	discourse	_	SpaceAfter=No
+3	ой	ой	_	Interj	_	5	discourse	_	SpaceAfter=No
 4	,	,	_	CLB	_	5	punct	_	_
-5	телевышка	телевышка	NOUN	N	Sg|Nom	7	conj	_	SpaceAfter=No
+5	телевышка	телевышка	NOUN	N	Sg|Nom	1	conj	_	SpaceAfter=No
 6	,	,	_	CLB	_	7	punct	_	_
-7	телестанция	телестанция	NOUN	N	Sg|Nom	9	obl	_	_
+7	телестанция	телестанция	NOUN	N	Sg|Nom	5	conj	_	_
 8	вылын	вылын	ADP	Po	Sg|Ine	7	case	_	_
 9	рӧбиті	рӧбитны	VERB	V	Ind|Prt1|Sg1	0	root	_	_
 10	кык	кык	_	Num	Card|Abs	11	nummod	_	_
