@@ -7,19 +7,19 @@
 4	четвёртэй	четвёртэй	_	Det	Ord|Abs	5	nummod	_	_
 5	годын	год	NOUN	N	Sg|Ine	1	obl	_	_
 6	октяб	октяб	NOUN	N	Prop|Abs	7	nmod	_	_
-7	тӧлысьӧ	тӧлысь	NOUN	N	Sg|Ill	1	obl	_	_
+7	тӧлысе	тӧлысь	NOUN	N	Sg|Ill	1	obl	_	_
 8	тундраын	тундра	NOUN	N	Sg|Ine	1	obl	_	SpaceAfter=No
 9	.	.	_	CLB	_	1	punct	_	_
 
 # sent_id = missing_id_2
-# text = Сэсся велэдчи, быдтіс баб миянумес. 
+# text = Сэсся велэдчи, быдтіс баб миянумес.
 # text_rus = 
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
-2	велӧдчи	велӧдчыны	VERB	V	Refl|Ind|Prt1|Sg1	0	root	_	SpaceAfter=No
+2	велэдчи	велӧдчыны	VERB	V	Refl|Ind|Prt1|Sg1	0	root	_	SpaceAfter=No
 3	,	,	_	CLB	_	2	punct	_	_
 4	быдтіс	быдтыны	VERB	V	Ind|Prt1|Sg3	2	ccomp	_	_
 5	баб	баб	NOUN	N	Sg|Acc	4	nsubj	_	_
-6	миянӧс	ми	PRON	Pron	Pers|Pl1|Acc	4	obj	_	SpaceAfter=No
+6	миянумес	ми	PRON	Pron	Pers|Pl1|Acc	4	obj	_	SpaceAfter=No
 7	.	.	_	CLB	_	2	punct	_	_
 
 # sent_id = missing_id_3
@@ -55,7 +55,7 @@
 28	флотын	флот	NOUN	N	Sg|Ine	25	conj	_	SpaceAfter=No
 29	.	.	_	CLB	_	12	punct	_	_
 
-# sent_id = missing_id_3
+# sent_id = missing_id_3_check
 # text = Сы бӧрын устроитчи рӧбитны, локті ас сиктэ да.
 # text_rus = 
 1	Сы	сійӧ	PRON	Pron	Pers|Sg3|Cmpl	3	advmod	_	_
@@ -142,26 +142,26 @@
 # text = Воліс же тундраас, но из, абу понравитчема, оз вермы сыа сэтшем условиеясас.
 # text_rus = 
 1	Воліс	волыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
-2	жӧ	жӧ	_	Pcle	_	1	discourse	_	_
+2	же	жӧ	_	Pcle	_	1	discourse	_	_
 3	тундраас	тундра	NOUN	N	Sg|Ill|PxSg3	1	obl	_	SpaceAfter=No
 4	,	,	_	CLB	_	5	punct	_	_
 5	но	но	_	CC	_	9	cc	_	_
-6	эз	оз	AUX	V	Neg|Ind|Prt|Sg3	8	conj	_	SpaceAfter=No
+6	из	оз	AUX	V	Neg|Ind|Prt|Sg3	8	conj	_	SpaceAfter=No
 7	,	,	_	CLB	_	6	punct	_	_
 8	абу	абу	_	Pcle	Neg	9	aux	_	_
 9	понравитчема	понравитчыны	VERB	V	_	1	conj	_	SpaceAfter=No|Note=Check
 10	,	,	_	CLB	_	11	punct	_	_
 11	оз	оз	AUX	V	Neg|Ind|Prs|Sg3	12	aux	_	_
 12	вермы	вермыны	VERB	V	ConNeg	1	ccomp	_	_
-13	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	12	nsubj	_	_
-14	сэтшӧм	сэтшӧм	_	Det	Sg|Nom	15	amod	_	_
+13	сыа	сійӧ	PRON	Pron	Pers|Sg3|Nom	12	nsubj	_	_
+14	сэтшем	сэтшӧм	_	Det	Sg|Nom	15	amod	_	_
 15	условиеясас	условие	NOUN	N	Pl|Ill|PxSg3	12	obl	_	SpaceAfter=No
 16	.	.	_	CLB	_	1	punct	_	_
 
 # sent_id = missing_id_10
 # text = Гожемъясын волыыліс челядькед.
 # text_rus = 
-1	Гожӧмъясын	гожӧм	NOUN	N	Pl|Ine	2	obl	_	_
+1	Гожемъясын	гожӧм	NOUN	N	Pl|Ine	2	obl	_	_
 2	волывліс	волывлыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
 3	челядькед	челядь	NOUN	N	Sg|Com	2	obl	_	SpaceAfter=No
 4	.	.	_	CLB	_	2	punct	_	_
