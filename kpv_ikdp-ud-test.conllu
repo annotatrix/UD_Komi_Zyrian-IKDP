@@ -30,7 +30,7 @@
 3	закончитэм	закончитэм	VERB	V	Tense=Past|VerbForm=Part	12	advcl	_	_
 4	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	3	case	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	гожемъяснас	гожемъяснас	NOUN	N	Case=Ins|Number=Plur|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	SpaceAfter=No
+6	гожемъяснас	гожемъяснас	NOUN	N	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	правда	правда	NOUN	N	Case=Nom|Number=Sing	12	discourse	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -496,7 +496,7 @@
 11	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
 12	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
 13	Красный	Красный	PROPN	N	Case=Acc|Number=Sing	11	nmod	_	_
-14	Октябрь	октябрь	PROPN	N	Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No
+14	Октябрь	октябрь	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	SpaceAfter=No
 15	"	"	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	17	punct	_	_
 17	да	да	PART	Pcle	_	11	discourse	_	SpaceAfter=No
@@ -1050,8 +1050,8 @@
 # text = Сіес Генриетта Петровналы кодке звӧнитчылэма сэтысянь, и висьталэма: колэныс, для оформления спектаклей колэныс коми песняяс.
 # text_rus =
 1	Сіес	сійӧ	PRON	Pron	Case=Acc|Person=3|PronType=Prs	5	obj	_	_
-2	Генриетта	Генриетта	PROPN	N	Case=Nom|Number=Sing	5	iobj	_	_
-3	Петровналы	Пётр	PROPN	N	Case=Dat|Number=Sing	2	flat	_	_
+2	Генриетта	Генриетта	PROPN	N	Case=Nom|Number=Sing	5	obl	_	_
+3	Петровналы	Пётр	PROPN	N	Case=Dat|Number=Sing	2	flat:name	_	_
 4	кодке	кодкӧ	PRON	Pron	Case=Nom	5	nsubj	_	_
 5	звӧнитчылэма	звӧнитчывны	VERB	V	Evident=Nfh|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=mixed
 6	сэтысянь	сэтысянь	ADV	Adv	Case=Egr	5	advmod	_	SpaceAfter=No
@@ -1090,7 +1090,7 @@
 5	году	год	NOUN	N	Case=Dat|Number=Sing	2	obl	_	Lang=rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
 7	девятого	девятый	ADJ	A	Number=Sing	8	amod	_	Lang=rus
-8	юля	юль	NOUN	N	Number=Sing	2	conj	_	Lang=rus|SpaceAfter=No
+8	юля	юль	NOUN	N	Number=Sing	5	conj	_	Lang=rus|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva20150403-2-b.021
@@ -1367,8 +1367,8 @@
 14	Елена	Елена	PROPN	N	Case=Nom|Number=Sing	15	nsubj	_	_
 15	вӧлі	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
 16	Зӧт	Зӧт	PROPN	N	Case=Nom|Number=Sing	15	nmod	_	_
-17	Дань	Дань	PROPN	N	Case=Nom|Number=Sing	16	flat	_	_
-18	Тимкалэн	Тимка	PROPN	N	Number=Sing	17	flat	_	_
+17	Дань	Дань	PROPN	N	Case=Nom|Number=Sing	16	flat:name	_	_
+18	Тимкалэн	Тимка	PROPN	N	Number=Sing	17	flat:name	_	_
 19	нылыс	ныв	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	acl	_	SpaceAfter=No
 20	.	.	PUNCT	CLB	_	19	punct	_	_
 
