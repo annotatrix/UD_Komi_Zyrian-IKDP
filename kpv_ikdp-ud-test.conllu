@@ -625,7 +625,7 @@
 # text_rus = Вот и говорю, ну, кто-то ска-, вот когда-то брат Николай сказал было: патриотка.
 # text_eng =
 1	Вот	вот	PART	Pcle	_	3	discourse	_	_
-2	и	и	PART	Pcle	_	1	goeswith	_	_
+2	и	и	PART	Pcle	_	3	discourse	_	_
 3	висьтоола	висьтооны	VERB	V	_	0	root	_	_
 4	тай	тай	PART	Pcle	_	3	discourse	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
@@ -642,7 +642,7 @@
 16	:	:	PUNCT	CLB	_	17	punct	_	_
 17	патриотка	патриотка	NOUN	N	_	15	appos	_	SpaceAfter=No
 18	.	.	PUNCT	CLB	_	3	punct	_	_
-
+  
 # sent_id = missing_id_37
 # text = Ас, мыйке, ас муас рӧдиттьыны мӧдэма, абу мӧдэма, оз, абу мӧдэма тытэн, Из сайын рӧдиттьынысэ.
 # text_rus = На своей, это, на своей земле хотела родиться, не хотела, не хотела там, за Уралом родиться.
