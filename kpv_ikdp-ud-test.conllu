@@ -476,7 +476,7 @@
 # text_eng = 
 1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	ме	ме	PRON	Pron	Case=Nom|Person=1|PronType=Prs	1	nsubj	_	_
-3	вӧрзялыгдырйи	вӧрзялыгдырйи	VERB	V	VerbForm=Ger	1	advmod	_	SpaceAfter=No
+3	вӧрзялыгдырйи	вӧрзявны	VERB	V	Derivation=igdyrji|VerbForm=Conv	1	advcl	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = missing_id_28
@@ -1089,8 +1089,8 @@
 4	первом	первый	ADJ	A	Case=Ins|Number=Sing	5	amod	_	Lang=rus
 5	году	год	NOUN	N	Case=Dat|Number=Sing	2	obl	_	Lang=rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	девятого	девятый	ADJ	A	Number=Sing	8	amod	_	Lang=rus
-8	юля	юль	NOUN	N	Number=Sing	5	conj	_	Lang=rus|SpaceAfter=No
+7	девятого	девятый	ADJ	A	Number=Sing|Case=Gen	8	amod	_	Lang=rus
+8	юля	юль	NOUN	N	Number=Sing|Case=Gen	5	conj	_	Lang=rus|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva20150403-2-b.021
