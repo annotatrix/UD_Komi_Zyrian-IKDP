@@ -721,7 +721,7 @@
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	а	а	CCONJ	CC	_	9	cc	_	Lang=Mixed
 8	мӧд	мӧд	PRON	Pron	PronType=Dem	9	dep	_	_
-9	луннас	лун	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	ccomp	_	_
+9	луннас	лун	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	acl	_	_
 10	ми	ми	PRON	Pron	Case=Nom|Person=1|PronType=Prs	15	nsubj	_	_
 11	уже	уже	ADV	Adv	_	15	advmod	_	Lang=Mixed|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	11	punct	_	_
@@ -762,7 +762,7 @@
 # sent_id = missing_id_42
 # text = Ну, кучем пӧрысь бабушка сэн лоас, сыа и лоас.
 # text_rus = Ну, какая старая бабушка там будет, она и будет (повивальной бабкой).
-# text_eng = 
+# text_eng =
 1	Ну	ну	PART	Pcle	_	5	mark	_	Lang=Mixed|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	кучем	кучем	ADV	Adv	_	5	advmod	_	_
@@ -802,7 +802,7 @@
 # sent_id = missing_id_44
 # text = Пока лёк из ло, но, пока, не то что лёк-а.
 # text_rus = Пока не стала плохой, ну, пока, не то что плохой.
-# text_eng = 
+# text_eng =
 1	Пока	пока	ADV	Adv	_	2	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
 3	из	oз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	4	aux	_	_
@@ -821,7 +821,7 @@
 # sent_id = missing_id_45
 # text = Пока из вермы, пока вермис.
 # text_rus = Пока не стала мочь, пока могла.
-# text_eng = 
+# text_eng =
 1	Пока	пока	ADV	Adv	_	3	advmod	_	Lang=Mixed
 2	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	3	aux	_	_
 3	вермы	вермыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
@@ -841,7 +841,7 @@
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	мукедыс	му	NOUN	N	Case=Com|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	_
 7	роч	роч	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	_
-8	кыы	кыы	NOUN	N	_	1	ccomp	_	_
+8	кыы	кыы	NOUN	N	_	1	conj	_	_
 9	да	да	CCONJ	CC	_	10	cc	_	Lang=Mixed
 10	мыйке-майда	мыйке-майда	ADV	Adv	_	8	conj	_	SpaceAfter=No|Note=Check
 11	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -849,7 +849,7 @@
 # sent_id = missing_id_47
 # text = И сыа ачыс ветліс, эта, бабаясыс доре или сы доре ваедісны, медланнэ примитіс челядьсэ?
 # text_rus = И она сама ходила, это, к женщинам или к ней приводили, чтобы она приняла ребенка?
-# text_eng = 
+# text_eng =
 1	И	и	CCONJ	CC	_	4	cc	_	Lang=Mixed
 2	сыа	сыа	PRON	Pron	Case=Nom|Person=3|PronType=Prs	4	nsubj	_	_
 3	ачыс	ас	PRON	Pron	Case=Nom|Person=3	4	nmod	_	_
@@ -865,7 +865,7 @@
 13	ваедісны	ваедны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
 15	медланнэ	медланнэ	ADV	Adv	_	16	advmod	_	_
-16	примитіс	примитны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	Lang=Mixed
+16	примитіс	примитны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Lang=Mixed
 17	челядьсэ	челядь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	SpaceAfter=No
 18	?	?	PUNCT	CLB	_	4	punct	_	_
 
@@ -888,7 +888,7 @@
 13	вӧліс	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
 15	только-только	только-только	ADV	Adv	_	16	advmod	_	Lang=Mixed
-16	пуктыны	пуктыны	VERB	V	VerbForm=Inf	6	ccomp	_	_
+16	пуктыны	пуктыны	VERB	V	VerbForm=Inf	6	conj	_	_
 17	и	и	PART	Pcle	_	18	cc	_	Lang=Mixed
 18	мӧдасы	мӧдны	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	16	conj	_	_
 19	воедны	воедны	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
@@ -998,7 +998,7 @@
 2	школьного	школьный	ADJ	A	Number=Sing	3	amod	_	Lang=Rus
 3	возраста	возраст	NOUN	N	Number=Sing	4	nmod	_	Lang=Rus
 4	ветлі	ветлыны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-5	родительяскед	родитель	NOUN	N	Case=Com|Number=Sing	4	nmod	_	Lang=Mixed
+5	родительяскед	родитель	NOUN	N	Case=Com|Number=Sing	4	obl	_	Lang=Mixed
 6	тундраын	тундра	NOUN	N	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -1090,7 +1090,7 @@
 5	году	год	NOUN	N	Case=Dat|Number=Sing	2	obl	_	Lang=Rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
 7	девятого	девятый	ADJ	A	Case=Gen|Number=Sing	8	amod	_	Lang=Rus
-8	юля	юль	NOUN	N	Case=Gen|Number=Sing	5	conj	_	Lang=Rus|SpaceAfter=No
+8	юля	юль	NOUN	N	Case=Gen|Number=Sing	5	appos	_	Lang=Rus|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva20150403-2-b.021
@@ -1144,7 +1144,7 @@
 13	,	,	PUNCT	CLB	_	12	punct	_	_
 14	сколько	сколько	ADV	Adv	_	16	advmod	_	Lang=Rus
 15	налог	налог	NOUN	N	Case=Nom|Number=Sing	16	obj	_	Lang=rus
-16	сетасныс	сетны	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	11	ccomp	_	_
+16	сетасныс	сетны	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	11	conj	_	_
 17	мыйттэм	мыйтӧм	PRON	Pron	_	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	CLB	_	17	punct	_	_
 19	сіе	сійӧ	PRON	Pron	Case=Acc|Person=3|PronType=Prs	21	obj	_	_
@@ -1312,10 +1312,10 @@
 # text = Только вот сы мында и мыйке, такое детство у нас было.
 # text_rus =
 # questions = такое детство, if annotated as in Russian treebanks, should apparently get relation amod.
-1	Только	только	ADV	Adv	_	3	advmod	_	Lang=Rus
-2	вот	вот	PART	Pcle	_	9	discourse	_	Lang=Rus
+1	Только	только	ADV	Adv	_	4	advmod	_	Lang=Rus
+2	вот	вот	PART	Pcle	_	4	discourse	_	Lang=Rus
 3	сы	сійӧ	PRON	Pron	Person=3|PronType=Prs	4	nmod	_	_
-4	мында	мында	NOUN	N	Case=Nom|Number=Sing	9	advmod	_	_
+4	мында	мында	NOUN	N	Case=Nom|Number=Sing	9	advcl	_	_
 5	и	и	CCONJ	CC	_	4	cc	_	Lang=Mixed
 6	мыйке	мыйкӧ	PRON	Pron	Case=Nom	4	appos	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
@@ -1328,7 +1328,7 @@
 
 # sent_id = kpv_izva20150403-3-b.1311
 # text = Вот у меня сэтэн выйым, гашке, братан, сестренница, а ме никодэс ог тӧд.
-# text_rus =  
+# text_rus =
 1	Вот	вот	PART	Pcle	_	9	discourse	_	Lang=Rus
 2	у	у	ADP	Pr	_	3	case	_	Lang=Rus
 3	меня	я	PRON	Pron	Person=1|PronType=Prs	9	obl	_	Lang=Rus
