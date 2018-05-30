@@ -1002,7 +1002,7 @@
 6	тундраын	тундра	NOUN	N	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id = missing_id_49
+# sent_id = kpv_izva20150409-1-b.0846
 # text = Ваыс зэй ыджыд кор вӧлі, дак берегсэ жугедэді, сідз и смыло всю деревню.
 # text_rus =
 1	Ваыс	ва	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	csubj	_	_
@@ -1022,7 +1022,7 @@
 15	деревню	деревня	NOUN	N	Case=Acc|Number=Sing	13	obj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	15	punct	_	_
 
-# sent_id = missing_id_50
+# sent_id = kpv_izva20150406-3-a.0928
 # text = Менам ае пырема тридцеть седьмой годын в Ненецкий олень-совхоз.
 # text_rus =
 1	Менам	ме	PRON	Pron	Person=1|PronType=Prs	2	nmod	_	_
@@ -1036,7 +1036,7 @@
 9	олень-совхоз	олень-совхоз	NOUN	N	Case=Nom|Number=Sing	3	obl	_	Lang=Rus|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_51
+# sent_id = kpv_izva20150406-3-a.0371
 # text = Став вӧлэсьсэ километров четыреста будет.
 # text_rus =
 1	Став	став	DET	Det	Case=Nom|Number=Sing	2	det	_	_
@@ -1152,7 +1152,7 @@
 21	сдайтан	сдайтны	VERB	V	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	21	punct	_	_
 
-# sent_id = missing_id_52
+# sent_id = kpv_izva20150705-03-b.100
 # text = И менум предложитісны должность директора межпоселенческого клубного объединения.
 # text_rus =
 1	И	и	CCONJ	CC	_	3	cc	_	Lang=Mixed
