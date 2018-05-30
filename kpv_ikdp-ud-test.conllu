@@ -1165,16 +1165,6 @@
 8	объединения	объединения	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	Lang=Rus|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = kpv_izva19580000-083
-# text = Вот тайӧ сразу синмад тыдовтчӧ.
-# text_rus =
-1	Вот	вот	PART	Pcle	_	5	discourse	_	Lang=Rus
-2	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	_
-3	сразу	сразу	ADV	Adv	_	5	advmod	_	Lang=Rus
-4	синмад	син	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	_
-5	тыдовтчӧ	тыдовтчыны	VERB	V	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	CLB	_	5	punct	_	_
-
 # sent_id = kpv_izva20140404IgusevJA-b-342
 # text = Выль во бӧрас, значит, машкуритчӧны.
 # text_rus =
