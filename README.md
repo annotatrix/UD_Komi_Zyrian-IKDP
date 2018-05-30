@@ -1,6 +1,6 @@
 # Summary
 
-This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The currenet texts are short segments from narratives from different areas where the Iźva dialect of Komi language is spoken. 
+This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The currenet texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken. 
 
 # Introduction
 
