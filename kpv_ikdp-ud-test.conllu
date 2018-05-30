@@ -22,7 +22,7 @@
 6	миянумес	ми	PRON	Pron	Case=Acc|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = kpv_izva20140325-2-a-007--kpv_izva20140325-2-a-009
+# sent_id = kpv_izva20140325-2-a-007+kpv_izva20140325-2-a-007+kpv_izva20140325-2-a-009
 # text = Десятой класс закончитэм бӧрын, гожемъяснас, правда, быд гожем ветлі родительяс доре тундраа, десятой класс закончитэм бӧрын куим во служиті подводнэй лодка вылын, флотын.
 # text_rus =
 1	Десятой	Десятой	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
@@ -186,7 +186,7 @@
 6	баняяс	баня	NOUN	N	Case=Acc|Number=Plur	1	conj	_	Lang=Mixed|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = kpv_izva20140325-2-a-021--kpv_izva20140325-2-a-022
+# sent_id = kpv_izva20140325-2-a-021+kpv_izva20140325-2-a-022
 # text = Кочегариті, ӧкмыс во, навернэ, кочегариті.
 # text_rus =
 1	Кочегариті	кочегаритны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -199,7 +199,7 @@
 8	кочегариті	кочегаритны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = kpv_izva20140325-2-a-023--kpv_izva20140325-2-a-024
+# sent_id = kpv_izva20140325-2-a-023+kpv_izva20140325-2-a-024
 # text = А эні нин сизим во кудз висены кокъясэ и ог вермы ветлыны, веське с удовольствием пета тундраа, но…
 # text_rus =
 1	А	а	CCONJ	CC	_	2	mark	_	Lang=Mixed
@@ -224,7 +224,7 @@
 20	но	но	PART	Pcle	_	7	discourse	_	Lang=Mixed|SpaceAfter=No
 21	…	…	PUNCT	CLB	_	7	punct	_	_
 
-# sent_id = kpv_izva20140325-2-a-025--kpv_izva20140325-2-a-026
+# sent_id = kpv_izva20140325-2-a-025+kpv_izva20140325-2-a-026
 # text = Медбӧрын лэччылі Нярьян-Маре тоже оленеводствоо, Нарьян-Марскей ОПХ-а.
 # text_rus =
 1	Медбӧрын	медбӧрын	ADV	Adv	Case=Ine	2	advmod	_	_
@@ -237,7 +237,7 @@
 8	ОПХ-а	ОПХ	NOUN	N	Case=Ill	5	conj	_	Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = kpv_izva20140325-2-a-028--kpv_izva20140325-2-a-031
+# sent_id = kpv_izva20140325-2-a-027+kpv_izva20140325-2-a-028+kpv_izva20140325-2-a-029+kpv_izva20140325-2-a-030+kpv_izva20140325-2-a-031
 # text = Девять месяцев проработайті, кокъясэ висьмисныс дзикедз, и приведитчис каны, чӧтны сіес рӧбетасэ.
 # text_rus =
 1	Девять	Девять	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
@@ -739,7 +739,7 @@
 24	вӧлі	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	SpaceAfter=No
 25	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = kpv_izva20150411-1-b-0038--kpv_izva20150411-1-b-0039
+# sent_id = kpv_izva20150411-1-b-0038+kpv_izva20150411-1-b-0039
 # text = Из сайын сыа, так что, меам Салехард местэыс тоже рӧднэй рӧдина койд.
 # text_rus = Это на Уралом, так что, мне места возле Салехарда тоже как родная родина.
 # text_eng =
@@ -869,7 +869,7 @@
 17	челядьсэ	челядь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	SpaceAfter=No
 18	?	?	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id = kpv_izva20150411-1-b-0064--kpv_izva20150411-1-b-0066
+# sent_id = kpv_izva20150411-1-b-0064+kpv_izva20150411-1-b-0066
 # text = Но, сыа вед няпойнэй чом, да, сыа походнэй чом вӧліс, только-только пуктыны и мӧдасы воедны, да.
 # text_rus = Ну, это ведь няпойный чум, да, это был походный чум, только-только поставить и завтра побежать, да.
 # text_eng =
