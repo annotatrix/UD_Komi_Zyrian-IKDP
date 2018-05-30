@@ -1,4 +1,4 @@
-# sent_id = missing_id_1
+# sent_id = kpv_izva20140325-2-a-004
 # text = Рӧдитчи ме шейсят четвёртэй годын октяб тӧлысе тундраын.
 # text_rus =
 1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
@@ -11,7 +11,7 @@
 8	тундраын	тундра	NOUN	N	Case=Ine|Number=Sing	1	obl	_	Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_2
+# sent_id = kpv_izva20140325-2-a-006
 # text = Сэсся велэдчи, быдтіс баб миянумес.
 # text_rus =
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
@@ -22,7 +22,7 @@
 6	миянумес	ми	PRON	Pron	Case=Acc|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_3
+# sent_id = kpv_izva20140325-2-a-007--kpv_izva20140325-2-a-009
 # text = Десятой класс закончитэм бӧрын, гожемъяснас, правда, быд гожем ветлі родительяс доре тундраа, десятой класс закончитэм бӧрын куим во служиті подводнэй лодка вылын, флотын.
 # text_rus =
 1	Десятой	Десятой	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
@@ -55,7 +55,7 @@
 28	флотын	флот	NOUN	N	Case=Ine|Number=Sing	25	conj	_	Lang=Mixed|SpaceAfter=No
 29	.	.	PUNCT	CLB	_	12	punct	_	_
 
-# sent_id = missing_id_3_check
+# sent_id = kpv_izva20140325-2-a-010
 # text = Сы бӧрын устроитчи рӧбитны, локті ас сиктэ да.
 # text_rus =
 1	Сы	сійӧ	PRON	Pron	Person=3|PronType=Prs	3	advmod	_	_
@@ -69,7 +69,7 @@
 9	да	да	PART	Pcle	_	8	discourse	_	Lang=Mixed|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_4
+# sent_id = kpv_izva20140325-2-a-011
 # text = Телевидение, ой, телевышка, телестанция вылын рӧбиті кык во.
 # text_rus =
 1	Телевидение	телевидение	NOUN	N	Case=Nom|Number=Sing	9	obl	_	Lang=Rus|SpaceAfter=No
@@ -85,7 +85,7 @@
 11	во	во	NOUN	N	Case=Nom|Number=Sing	9	obl	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	9	punct	_	_
 
-# sent_id = missing_id_5
+# sent_id = kpv_izva20140325-2-a-012
 # text = Сэсся кувсис менам мам.
 # text_rus =
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
@@ -94,7 +94,7 @@
 4	мам	мам	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_6
+# sent_id = kpv_izva20140325-2-a-013
 # text = И ме петі тундраа ортсасьны аелы.
 # text_eng = And I went to help my father at the tundra.
 # text_rus =
@@ -106,7 +106,7 @@
 6	аелы	ай	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_7
+# sent_id = kpv_izva20140325-2-a-014
 # text = Тундраын ветлі сизим во, керка кари аслум вокъяскед, дядьяскед.
 # text_rus =
 1	Тундраын	тундра	NOUN	N	Case=Ine|Number=Sing	2	obl	_	Lang=Mixed
@@ -122,7 +122,7 @@
 11	дядьяскед	дядь	NOUN	N	Case=Com|Number=Plur	9	conj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_8
+# sent_id = kpv_izva20140325-2-a-015
 # text = Супругаа, кудз висьтооны, абу оленевод да, приведитчис кольччыны.
 # text_rus =
 1	Супругаа	супруга	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Lang=Mixed|SpaceAfter=No
@@ -138,7 +138,7 @@
 11	кольччыны	кольччыны	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	7	punct	_	_
 
-# sent_id = missing_id_9
+# sent_id = kpv_izva20140325-2-a-017
 # text = Воліс же тундраас, но из, абу понравитчема, оз вермы сыа сэтшем условиеясас.
 # text_rus =
 1	Воліс	волыны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -158,7 +158,7 @@
 15	условиеясас	условие	NOUN	N	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	Lang=Mixed|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_10
+# sent_id = kpv_izva20140325-2-a-018
 # text = Гожемъясын волыыліс челядькед.
 # text_rus =
 1	Гожемъясын	гожӧм	NOUN	N	Case=Ine|Number=Plur	2	obl	_	_
@@ -166,7 +166,7 @@
 3	челядькед	челядь	NOUN	N	Case=Com|Number=Sing	2	obl	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_11
+# sent_id = kpv_izva20140325-2-a-019
 # text = Рӧбиті стрӧительствоын нёль во.
 # text_rus =
 1	Рӧбиті	рӧбитны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
@@ -175,7 +175,7 @@
 4	во	во	NOUN	N	Case=Nom|Number=Sing	1	obl	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_12
+# sent_id = kpv_izva20140325-2-a-020
 # text = Керкаяс стрӧитім, гаражъяс, баняяс.
 # text_rus =
 1	Керкаяс	керка	NOUN	N	Case=Acc|Number=Plur	2	obj	_	_
@@ -186,7 +186,7 @@
 6	баняяс	баня	NOUN	N	Case=Acc|Number=Plur	1	conj	_	Lang=Mixed|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_13
+# sent_id = kpv_izva20140325-2-a-021--kpv_izva20140325-2-a-022
 # text = Кочегариті, ӧкмыс во, навернэ, кочегариті.
 # text_rus =
 1	Кочегариті	кочегаритны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -199,7 +199,7 @@
 8	кочегариті	кочегаритны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_14
+# sent_id = kpv_izva20140325-2-a-023--kpv_izva20140325-2-a-024
 # text = А эні нин сизим во кудз висены кокъясэ и ог вермы ветлыны, веське с удовольствием пета тундраа, но…
 # text_rus =
 1	А	а	CCONJ	CC	_	2	mark	_	Lang=Mixed
@@ -224,7 +224,7 @@
 20	но	но	PART	Pcle	_	7	discourse	_	Lang=Mixed|SpaceAfter=No
 21	…	…	PUNCT	CLB	_	7	punct	_	_
 
-# sent_id = missing_id_15
+# sent_id = kpv_izva20140325-2-a-025--kpv_izva20140325-2-a-026
 # text = Медбӧрын лэччылі Нярьян-Маре тоже оленеводствоо, Нарьян-Марскей ОПХ-а.
 # text_rus =
 1	Медбӧрын	медбӧрын	ADV	Adv	Case=Ine	2	advmod	_	_
@@ -237,7 +237,7 @@
 8	ОПХ-а	ОПХ	NOUN	N	Case=Ill	5	conj	_	Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_16
+# sent_id = kpv_izva20140325-2-a-028--kpv_izva20140325-2-a-031
 # text = Девять месяцев проработайті, кокъясэ висьмисныс дзикедз, и приведитчис каны, чӧтны сіес рӧбетасэ.
 # text_rus =
 1	Девять	Девять	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
@@ -257,7 +257,7 @@
 15	рӧбетасэ	рӧбетасӧ	NOUN	N	Case=Acc|Number[psor]=Sing|Person[psor]=3	13	obj	_	Lang=Mixed|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_17
+# sent_id = kpv_izva20140325-2-a-033
 # text = Вот эні гортын сизим во нин, сизимед во нин, инвалидность вылын.
 # text_rus =
 1	Вот	вот	PART	Pcle	_	2	discourse	_	Lang=Mixed
@@ -275,7 +275,7 @@
 13	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	12	case	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id = missing_id_18
+# sent_id = kpv_izva20140325-2-a-034
 # text = Второй группа инвалидность имейта.
 # text_rus =
 1	Второй	второй	ADJ	A	Case=Nom|Number=Sing	2	amod	_	Lang=Rus
@@ -470,7 +470,7 @@
 25	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	24	case	_	SpaceAfter=No
 26	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id = missing_id_27
+# sent_id = kpv_izva20150411-1-b-0012
 # text = Рӧдитчи ме вӧрзялыгдырйи.
 # text_rus = Я родилась во время начала каслания.
 # text_eng =
@@ -479,7 +479,7 @@
 3	вӧрзялыгдырйи	вӧрзявны	VERB	V	Derivation=Igdyrji|VerbForm=Conv	1	advcl	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_28
+# sent_id = kpv_izva20150411-1-b-0013
 # text = Кор миян ае-маме вӧрзисныс, но, стадыс миян, колхоз "Красный Октябрь", да?
 # text_rus = Когда наши родители начали каслать, ну стадо у нас (было) в колхозе "Красный Октябрь", да?
 # text_eng =
@@ -502,7 +502,7 @@
 17	да	да	PART	Pcle	_	13	discourse	_	Lang=Mixed|SpaceAfter=No
 18	?	?	PUNCT	CLB	_	13	punct	_	_
 
-# sent_id = missing_id_29
+# sent_id = kpv_izva20150411-1-b-0015
 # text = Вто-, вторая бригада оленеводческая, висьтооны ке, мӧдэд бригада, да?
 # text_rus = Вторая оленеводческая бригада, если сказать, вторая бригада, да?
 # text_eng =
@@ -521,7 +521,7 @@
 13	да	да	PART	Pcle	_	11	discourse	_	Lang=Mixed|SpaceAfter=No
 14	?	?	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id = missing_id_30
+# sent_id = kpv_izva20150411-1-b-0017
 # text = И этія, миян ӧттӧрйи вӧрзялісныс Из сае.
 # text_rus = И это, у нас всегда каслали за Урал.
 # text_eng =
@@ -535,7 +535,7 @@
 8	сае	сай	ADP	Po	Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id = missing_id_31
+# sent_id = kpv_izva20150411-1-b-0019
 # text = И ӧні бара же мӧдісныс вӧрзёоны.
 # text_rus = И сейчас тоже начали каслать.
 # text_eng =
@@ -547,7 +547,7 @@
 6	вӧрзёоны	вӧрзёоны	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id = missing_id_32
+# sent_id = kpv_izva20150411-1-b-0020
 # text = Но маме как раз тыра вӧліс, думайтэныс, гашке, вӧрзям да и, ничего, бур лоо ставыс да.
 # text_rus = Ну, мама как раз беременная была, думают, может, начнем каслать и ничего, всё будет хорошо.
 # text_eng =
@@ -574,7 +574,7 @@
 21	да	да	PART	Pcle	_	18	discourse	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	8	punct	_	_
 
-# sent_id = missing_id_33
+# sent_id = kpv_izva20150411-1-b-0021
 # text = Ну, только вӧрземаась, и пурга воссема.
 # text_rus = Ну, только начали каслать, и пурга началась.
 # text_eng =
@@ -588,7 +588,7 @@
 8	воссема	воссьыны	VERB	V	Evident=Nfh|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id = missing_id_34
+# sent_id = kpv_izva20150411-1-b-0023
 # text = Пургамема, и бӧр косісны чом местэас, важ чом местэас косісныс.
 # text_rus = Запуржило, и они обратно вернулись на место чума, возвратились на место старого чума.
 # text_eng =
@@ -606,7 +606,7 @@
 12	косісныс	косны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_35
+# sent_id = kpv_izva20150411-1-b-0024
 # text = И сэк и ме сэн самей и рӧдитти.
 # text_rus = И тогда и я именно там и родилась.
 # text_eng =
@@ -620,7 +620,7 @@
 8	рӧдитти	рӧдитти	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
-# sent_id = missing_id_36
+# sent_id = kpv_izva20150411-1-b-0025
 # text = Вот и висьтоола тай, но, кодке висьт-, Микул вок корке тай висьталэма: патриотка.
 # text_rus = Вот и говорю, ну, кто-то ска-, вот когда-то брат Николай сказал было: патриотка.
 # text_eng =
@@ -643,7 +643,7 @@
 17	патриотка	патриотка	NOUN	N	_	15	appos	_	Lang=Mixed|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_37
+# sent_id = kpv_izva20150411-1-b-0026
 # text = Ас, мыйке, ас муас рӧдиттьыны мӧдэма, абу мӧдэма, оз, абу мӧдэма тытэн, Из сайын рӧдиттьынысэ.
 # text_rus = На своей, это, на своей земле хотела родиться, не хотела, не хотела там, за Уралом родиться.
 # text_eng =
@@ -670,7 +670,7 @@
 21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	VerbForm=Inf	16	ccomp	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	8	punct	_	_
 
-# sent_id = missing_id_38
+# sent_id = kpv_izva20150411-1-b-0032
 # text = Так что, никучем иностраннэй местаясэ ог ветлоо.
 # text_rus = Так что, в никакие иностранные места не езжу.
 # text_eng =
@@ -684,7 +684,7 @@
 8	ветлоо	ветлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
-# sent_id = missing_id_39
+# sent_id = kpv_izva20150411-1-b-0033
 # text = Из сае токо ветлала, потому что мӧд, мӧдэд луныс, да, менам сэн нин воссис нин.
 # text_rus = Только езжу за Урал, потому что второй день, да, мой уже там начался.
 # text_eng =
@@ -709,7 +709,7 @@
 19	нин	нин	ADV	Adv	_	18	advmod	_	SpaceAfter=No
 20	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id = missing_id_40
+# sent_id = kpv_izva20150411-1-b-0036
 # text = Ну, палялі ас местэам, а мӧд луннас ми уже, абу мӧд луннас-а, сы луннас же вот, тытэн нин вӧлі.
 # text_rus = Ну, я проснулась на своем месте, а на следующий день мы уже, не на второй день, в тот же день вот, уже там была.
 # text_eng =
@@ -739,7 +739,7 @@
 24	вӧлі	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	SpaceAfter=No
 25	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_41
+# sent_id = kpv_izva20150411-1-b-0038--kpv_izva20150411-1-b-0039
 # text = Из сайын сыа, так что, меам Салехард местэыс тоже рӧднэй рӧдина койд.
 # text_rus = Это на Уралом, так что, мне места возле Салехарда тоже как родная родина.
 # text_eng =
@@ -759,7 +759,7 @@
 14	койд	койд	ADP	Po	_	13	case	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_42
+# sent_id = kpv_izva20150411-1-b-0052
 # text = Ну, кучем пӧрысь бабушка сэн лоас, сыа и лоас.
 # text_rus = Ну, какая старая бабушка там будет, она и будет (повивальной бабкой).
 # text_eng =
@@ -776,7 +776,7 @@
 11	лоас	лоны	AUX	V	Mood=Ind|Person=3|VerbForm=Fin	9	cop	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id = missing_id_43
+# sent_id = kpv_izva20150411-1-b-0055
 # text = Маме вед сэчем же гӧг баб вӧліс: сыа зэй уна мыйке, челядь босьтіс, примитіс.
 # text_rus = Моя мама тоже такой повивальной бабкой была: она ведь очень много это, детей взяла, приняла.
 # text_eng =
@@ -799,7 +799,7 @@
 17	примитіс	примитны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	Lang=Mixed|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id = missing_id_44
+# sent_id = kpv_izva20150411-1-b-0058
 # text = Пока лёк из ло, но, пока, не то что лёк-а.
 # text_rus = Пока не стала плохой, ну, пока, не то что плохой.
 # text_eng =
@@ -818,7 +818,7 @@
 13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	2	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_45
+# sent_id = kpv_izva20150411-1-b-0059
 # text = Пока из вермы, пока вермис.
 # text_rus = Пока не стала мочь, пока могла.
 # text_eng =
@@ -830,7 +830,7 @@
 6	вермис	вермыны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = missing_id_46
+# sent_id = kpv_izva20150411-1-b-0061
 # text = Примитіс сэн, босьтіс, мукедыс роч кыы да мыйке-майда.
 # text_rus = Принимала там, брала, некоторые русские да что.
 # text_eng =
@@ -846,7 +846,7 @@
 10	мыйке-майда	мыйке-майда	ADV	Adv	_	8	conj	_	SpaceAfter=No|Note=Check
 11	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id = missing_id_47
+# sent_id = kpv_izva20150411-1-b-0062
 # text = И сыа ачыс ветліс, эта, бабаясыс доре или сы доре ваедісны, медланнэ примитіс челядьсэ?
 # text_rus = И она сама ходила, это, к женщинам или к ней приводили, чтобы она приняла ребенка?
 # text_eng =
@@ -869,7 +869,7 @@
 17	челядьсэ	челядь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	SpaceAfter=No
 18	?	?	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id = missing_id_48
+# sent_id = kpv_izva20150411-1-b-0064--kpv_izva20150411-1-b-0066
 # text = Но, сыа вед няпойнэй чом, да, сыа походнэй чом вӧліс, только-только пуктыны и мӧдасы воедны, да.
 # text_rus = Ну, это ведь няпойный чум, да, это был походный чум, только-только поставить и завтра побежать, да.
 # text_eng =
@@ -991,7 +991,7 @@
 10	невозможнэ	невозможнэ	ADV	Adv	_	5	acl	_	Lang=Rus|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = missing_id_48_check
+# sent_id = kpv_izva20140325-2-a-005
 # text = До школьного возраста ветлі родительяскед тундраын.
 # text_rus =
 1	До	до	ADP	Pr	_	3	case	_	Lang=Rus
