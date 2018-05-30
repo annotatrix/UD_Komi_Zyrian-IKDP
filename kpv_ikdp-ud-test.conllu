@@ -1152,20 +1152,6 @@
 21	сдайтан	сдайтны	VERB	V	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	21	punct	_	_
 
-# sent_id = kpv_vym19570000-292_1a-Vym-1-43
-# text = У меня-то завидь петаліс-а на ваше пение.
-# text_rus =
-1	У	у	ADP	Pr	_	2	case	_	Lang=Rus
-2	меня	я	PRON	Pron	Person=1|PronType=Prs	6	obl	_	Lang=Rus|SpaceAfter=No
-3	-	-	PUNCT	CLB	_	2	goeswith	_	SpaceAfter=No
-4	то	то	PART	Pcle	_	2	goeswith	_	Lang=Rus
-5	завидь	завидь	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	Lang=Rus|Note=Check
-6	петаліс-а	петаліс	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	на	на	ADP	Pr	_	9	case	_	Lang=Rus
-8	ваше	ваш	PRON	Det	Case=Nom|Number=Sing	9	det	_	Lang=Rus
-9	пение	пение	NOUN	N	Case=Nom|Number=Sing	6	obl	_	Lang=Rus|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	6	punct	_	_
-
 # sent_id = missing_id_52
 # text = И менум предложитісны должность директора межпоселенческого клубного объединения.
 # text_rus =
@@ -1178,54 +1164,6 @@
 7	клубного	клубный	ADJ	A	Number=Sing	8	amod	_	Lang=Rus
 8	объединения	объединения	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	Lang=Rus|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
-
-# sent_id = kpv_vym19570000-292_1a-Vym-1-06
-# text = Коркӧ давно жили да были цар гожъя.
-# text_rus =
-1	Коркӧ	коркӧ	ADV	Adv	_	3	advmod	_	_
-2	давно	давно	ADV	Adv	_	3	advmod	_	Lang=Rus
-3	жили	жить	VERB	V	Number=Plur	0	root	_	Lang=Rus
-4	да	да	CCONJ	CC	_	5	cc	_	_
-5	были	быть	VERB	V	Number=Plur	3	conj	_	Lang=Rus
-6	цар	цар	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	Lang=Mixed
-7	гожъя	гожъя	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	3	punct	_	_
-
-# sent_id = kpv_vym19570000-292_1a-Vym-1-11
-# text = Однажды один-от мужик решился обмануть тайӧ царскӧй семъятӧ.
-# text_rus =
-1	Однажды	однажды	ADV	Adv	_	6	advmod	_	Lang=Rus
-2	один	один	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	Lang=Rus|SpaceAfter=No
-3	-	-	PUNCT	CLB	_	2	goeswith	_	SpaceAfter=No
-4	от	от	PART	Pcle	_	2	goeswith	_	Lang=Rus
-5	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	Lang=Rus
-6	решился	решить	VERB	V	Number=Sing	0	root	_	Lang=Rus
-7	обмануть	обмануть	VERB	V	VerbForm=Inf	6	xcomp	_	Lang=Rus
-8	тайӧ	тайӧ	DET	Det	Case=Nom|Number=Sing|PronType=Dem	10	det	_	_
-9	царскӧй	царскӧй	ADJ	A	Case=Nom|Number=Sing	10	amod	_	Lang=Mixed
-10	семъятӧ	семъя	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	obj	_	Lang=mixed|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	6	punct	_	_
-
-# sent_id = kpv_vym19570000-292_1a-Vym-1-25+kpv_vym19570000-292_1a-Vym-1-26
-# text = Сэсся мужик-от зашол мӧд комнатаас, а там у царичи доцка-то была.
-# text_rus =
-1	Сэсся	сэсся	ADV	Adv	_	5	advmod	_	_
-2	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	Lang=Rus|SpaceAfter=No
-3	-	-	PUNCT	PUNCT	_	2	goeswith	_	SpaceAfter=No
-4	от	от	PART	Pcle	_	2	goeswith	_	Lang=Rus
-5	зашол	зайти	VERB	V	Person=3	0	root	_	Lang=Rus
-6	мӧд	мӧд	PRON	Pron	PronType=Dem	7	amod	_	_
-7	комнатаас	комната	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	Lang=mixed|SpaceAfter=No
-8	,	,	PUNCT	CLB	_	7	punct	_	_
-9	а	а	CCONJ	CC	_	13	cc	_	Lang=Mixed
-10	там	там	ADV	Adv	_	13	advmod	_	Lang=Rus
-11	у	у	ADP	Pr	_	12	case	_	Lang=Rus
-12	царичи	царича	NOUN	N	Number=Sing	13	nmod	_	Lang=Rus
-13	доцка	доцка	NOUN	N	Case=Nom|Number=Sing	5	advcl	_	Lang=Rus|SpaceAfter=No
-14	-	-	PUNCT	CLB	_	13	goeswith	_	SpaceAfter=No
-15	то	то	PART	Pcle	_	13	goeswith	_	Lang=Rus
-16	была	быть	AUX	V	Number=Sing	13	cop	_	Lang=Rus|SpaceAfter=No
-17	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = kpv_izva19580000-083
 # text = Вот тайӧ сразу синмад тыдовтчӧ.
