@@ -12,7 +12,7 @@ Thanks for LATTICE-CNRS laboratory and Kone Foundation for supporting the work.
 
 ## References
 
-Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levchenko; Niko Partanen and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
+Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Levchenko, Dmitriy; Partanen, Niko and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
