@@ -347,7 +347,7 @@
 # text = Девять месяцев проработайті, кокъясэ висьмисныс дзикедз, и приведитчис каны, чӧтны сіес рӧбетасэ.
 # text_rus =
 1	Девять	Девять	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
-2	месяцев	месяцев	NOUN	N	Number=Plur	3	obl	_	Lang=Rus
+2	месяцев	месяцев	NOUN	N	Case=Gen|Number=Plur	3	obl	_	Lang=Rus
 3	проработайті	проработайтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	кокъясэ	кок	NOUN	N	Case=Ill|Number=Plur	6	obl	_	_
@@ -386,7 +386,7 @@
 # text_rus =
 1	Второй	второй	ADJ	A	Case=Nom|Number=Sing	2	amod	_	Lang=Rus
 2	группа	группа	NOUN	N	Case=Nom|Number=Sing	4	obj	_	Lang=Rus
-3	инвалидность	инвалидность	NOUN	N	Number=Sing	2	nmod	_	Lang=Rus
+3	инвалидность	инвалидность	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	Lang=Rus
 4	имейта	имейта	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -396,8 +396,8 @@
 # text_eng = I was born on the 11th of May, 1961.
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
-3	одиннадцатого	одиннадцатого	ADJ	A	_	4	amod	_	Lang=Rus
-4	мая	мая	NOUN	N	Number=Sing	2	obl	_	Lang=Rus
+3	одиннадцатого	одиннадцатого	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=Rus
+4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=Rus
 5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=Rus|Note=Check
 6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=Rus
 7	шестьдесят	шестьдесят	NUM	Num	NumType=Card	8	compound	_	Lang=Rus
@@ -563,9 +563,9 @@
 12	а	а	CCONJ	CC	_	13	cc	_	Lang=Mixed
 13	курсъяс	курс	NOUN	N	Case=Nom|Number=Plur	6	acl	_	Lang=Mixed|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	13	punct	_	_
-15	подготовка	подготовка	NOUN	N	_	18	nsubj	_	Lang=Mixed
+15	подготовка	подготовка	NOUN	N	Case=Nom|Number=Sing	18	nsubj	_	Lang=Mixed
 16	куим	куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	17	nummod	_	_
-17	месеча	месеча	NOUN	N	_	18	obl	_	Lang=Mixed
+17	месеча	месеча	NOUN	N	Case=Gen|Number=Sing	18	obl	_	Lang=Mixed
 18	прӧйдитэма	прӧйдитны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	Lang=Mixed|SpaceAfter=No
 19	,	,	PUNCT	CLB	_	20	punct	_	_
 20	и	и	CCONJ	CC	_	21	cc	_	Lang=Mixed
@@ -658,7 +658,7 @@
 # text_rus = Ну, мама как раз беременная была, думают, может, начнем каслать и ничего, всё будет хорошо.
 # text_eng =
 1	Но	но	CCONJ	CC	_	2	cc	_	Lang=Mixed
-2	маме	мам	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
+2	маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
 3	как	как	SCONJ	CS	_	5	advmod	_	Lang=Rus
 4	раз	раз	NOUN	N	Case=Nom|Number=Sing	3	fixed	_	Lang=Rus
 5	тыра	тыр	ADV	Adv	_	8	advcl	_	_
@@ -668,7 +668,7 @@
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	гашке	гашке	ADV	Adv	_	12	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
-12	вӧрзям	вӧрзьыны	VERB	V	Mood=IndNumber=Plur||Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur||Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 13	да	да	PART	Pcle	_	12	discourse	_	Lang=Mixed
 14	и	и	PART	Pcle	_	13	goeswith	_	Lang=Mixed|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
@@ -947,7 +947,7 @@
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	мукедыс	му	NOUN	N	Case=Com|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	_
 7	роч	роч	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	_
-8	кыы	кыы	NOUN	N	_	1	conj	_	_
+8	кыы	кыы	NOUN	N	Case=Nom|Number=Sing	1	conj	_	_
 9	да	да	CCONJ	CC	_	10	cc	_	Lang=Mixed
 10	мыйке-майда	мыйке-майда	ADV	Adv	_	8	conj	_	SpaceAfter=No|Note=Check
 11	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -1015,9 +1015,9 @@
 7	лун	лун	NOUN	N	Case=Nom|Number=Sing	10	obl	_	_
 8	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 9	в	в	ADP	Pr	_	10	case	_	Lang=Rus
-10	шоке	шок	NOUN	N	Number=Sing	0	root	_	Lang=Rus
+10	шоке	шок	NOUN	N	Case=Loc|Number=Sing	0	root	_	Lang=Rus
 11	от	от	ADP	Pr	_	12	case	_	Lang=Rus
-12	Тайланда	Тайланд	PROPN	N	Number=Sing	10	obl	_	Lang=Rus|SpaceAfter=No
+12	Тайланда	Тайланд	PROPN	N	Case=Gen|Number=Sing	10	obl	_	Lang=Rus|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	потому	потому	SCONJ	CS	_	25	mark	_	Lang=Rus
 15	что	что	SCONJ	CS	_	14	fixed	_	Lang=Rus|SpaceAfter=No
@@ -1027,7 +1027,7 @@
 19	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	25	obj	_	_
 20	страны	страна	NOUN	N	Case=Nom|Number=Plur	25	nsubj	_	Lang=Rus
 21	Юго-Восточной	юго-восточной	ADJ	A	Case=Nom|Number=Sing	22	amod	_	Lang=Rus
-22	Азии	Азия	PROPN	N	Number=Sing	20	nmod	_	Lang=Rus
+22	Азии	Азия	PROPN	N	Case=Gen|Number=Sing	20	nmod	_	Lang=Rus
 23	зэй	зэй	ADV	Adv	_	25	advmod	_	_
 24	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	25	aux	_	_
 25	привлекайтныс	привлекайтны	VERB	V	Connegative=Yes|Number=Plur	10	advcl	_	Lang=Mixed|SpaceAfter=No
@@ -1044,7 +1044,7 @@
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
 7	в	в	ADP	Pr	_	8	case	_	Lang=Rus
-8	глаза	глаз	NOUN	N	Number=Sing	6	obl	_	Lang=Rus|SpaceAfter=No
+8	глаза	глаз	NOUN	N	Case=Acc|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=Rus
 11	что	что	SCONJ	CS	_	10	fixed	_	Lang=Rus
@@ -1092,7 +1092,7 @@
 5	кажитче	кажитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	без	без	ADP	Pr	_	8	case	_	Lang=Rus
-8	репетитора	репетитор	NOUN	N	Number=Sing	10	obl	_	Lang=Rus
+8	репетитора	репетитор	NOUN	N	Case=Gen|Number=Sing	10	obl	_	Lang=Rus
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 10	невозможнэ	невозможнэ	ADV	Adv	Polarity=Neg	5	acl	_	Lang=Rus|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -1101,8 +1101,8 @@
 # text = До школьного возраста ветлі родительяскед тундраын.
 # text_rus =
 1	До	до	ADP	Pr	_	3	case	_	Lang=Rus
-2	школьного	школьный	ADJ	A	Number=Sing	3	amod	_	Lang=Rus
-3	возраста	возраст	NOUN	N	Number=Sing	4	nmod	_	Lang=Rus
+2	школьного	школьный	ADJ	A	Case=Gen|Number=Sing	3	amod	_	Lang=Rus
+3	возраста	возраст	NOUN	N	Case=Gen|Number=Sing	4	nmod	_	Lang=Rus
 4	ветлі	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 5	родительяскед	родитель	NOUN	N	Case=Com|Number=Sing	4	obl	_	Lang=Mixed
 6	тундраын	тундра	NOUN	N	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
@@ -1147,7 +1147,7 @@
 # text_rus =
 1	Став	став	DET	Det	Case=Nom|Number=Sing	2	det	_	_
 2	вӧлэсьсэ	вӧлэсь	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
-3	километров	километр	NOUN	N	Number=Plur	5	obl	_	Lang=Rus
+3	километров	километр	NOUN	N	Case=Gen|Number=Plur	5	obl	_	Lang=Rus
 4	четыреста	четыреста	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	Lang=Rus
 5	будет	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Lang=Rus|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -1168,8 +1168,8 @@
 11	колэныс	ковны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	11	punct	_	_
 13	для	для	ADP	Pr	_	15	case	_	Lang=Rus
-14	оформления	оформление	NOUN	N	Number=Sing	16	obl	_	Lang=Rus
-15	спектаклей	спектакль	NOUN	N	Number=Plur	14	nmod	_	Lang=rus
+14	оформления	оформление	NOUN	N	Case=Gen|Number=Sing	16	obl	_	Lang=Rus
+15	спектаклей	спектакль	NOUN	N	Case=Gen|Number=Plur	14	nmod	_	Lang=rus
 16	колэныс	ковны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 17	коми	коми	NOUN	N	Case=Nom|Number=Sing	18	nmod	_	_
 18	песняяс	песня	NOUN	N	Case=Nom|Number=Plur	16	nsubj	_	Lang=Mixed|SpaceAfter=No
@@ -1180,7 +1180,7 @@
 # text_rus =
 1	Именнэ	именно	ADV	Adv	_	3	advmod	_	Lang=Rus
 2	для	для	ADP	Pr	_	3	case	_	Lang=Rus
-3	девушек	дешувка	NOUN	N	Number=Plur	6	nmod	_	Lang=Rus
+3	девушек	дешувка	NOUN	N	Case=Gen|Number=Plur	6	nmod	_	Lang=Rus
 4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	ачыс	ас	PRON	Pron	Case=Nom|Person=3	6	advmod	_	_
 6	сарафан	сарапан	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -1227,7 +1227,7 @@
 3	этадз	этадз	ADV	Adv	_	5	advmod	_	_
 4	через	через	ADP	Pr	_	5	case	_	Lang=Rus
 5	плечо	плечо	NOUN	N	Case=Acc|Number=Sing	8	obl	_	Lang=Rus
-6	дӧраысь	дӧра	NOUN	N	Number=Sing	7	nmod	_	_
+6	дӧраысь	дӧра	NOUN	N	Case=Ela|Number=Sing	7	nmod	_	_
 7	сумка	сумка	NOUN	N	Case=Nom|Number=Sing	8	obj	_	Lang=Rus
 8	вурема	вурны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
@@ -1265,7 +1265,7 @@
 2	менум	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
 3	предложитісны	предложитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=mixed
 4	должность	должность	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Rus
-5	директора	директор	NOUN	N	Number=Sing	4	nmod	_	Lang=Rus
+5	директора	директор	NOUN	N	Case=Gen|Number=Sing	4	nmod	_	Lang=Rus
 6	межпоселенческого	межпоселенческий	ADJ	A	Number=Sing	7	amod	_	Lang=Rus
 7	клубного	клубный	ADJ	A	Number=Sing	8	amod	_	Lang=Rus
 8	объединения	объединения	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	Lang=Rus|SpaceAfter=No
@@ -1335,7 +1335,7 @@
 1	Считай	считать	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	discourse	_	Lang=Rus|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	три	три	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	Lang=Rus
-4	раза	раз	NOUN	N	Number=Sing	7	obl	_	Lang=Rus
+4	раза	раз	NOUN	N	Case=Gen|Number=Sing	7	obl	_	Lang=Rus
 5	в	в	ADP	Pr	_	6	case	_	Lang=Rus
 6	год	год	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	Lang=Rus
 7	пересчитывайтэны	пересчитывайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Lang=mixed
