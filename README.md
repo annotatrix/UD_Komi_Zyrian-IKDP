@@ -1,6 +1,6 @@
 # Summary
 
-This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The currenet texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken. 
+This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The current texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken. 
 
 # Introduction
 
@@ -8,13 +8,21 @@ The materials have been collected within Iźva Komi Documentation Project, funde
 
 The corpus contains portions of recordings done between 1959 and 2016. Part of the texts have been originally published by Eric Vászolyi-Vasse in Specimina Sibirica serie's Syrjaenica parts I-III. The materials are reproduced here by the permission of the publisher.
 
+The IKDP spoken language corpus is going to be migrated in late 2018 from TLA to the [Language Bank of Finland](https://www.kielipankki.fi/). In the release following the migration the sentence id's will, when applicable, be updated to match URNs in the new infrastructure.
+
+The treebank creation process has been described in the article [First Komi-Zyrian Universal Dependencies Treebanks](http://universaldependencies.org/udw18/PDFs/28_Paper.pdf)
+
 # Acknowledgments
 
 Thanks for LATTICE-CNRS laboratory and Kone Foundation for supporting the work.
 
-## References
+# References
 
 Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Levchenko, Dmitriy; Partanen, Niko and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
+
+Partanen, Niko; Blokland, Rogier; Lim, KyungTae; Poibeau, Thierry and Rießler, Michael 2018: [First Komi-Zyrian Universal Dependencies Treebanks](http://universaldependencies.org/udw18/PDFs/28_Paper.pdf)
+
+# Changelog
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
