@@ -1,4 +1,4 @@
-# sent_id =  kpv_izva19591100-05582_1az-04
+# sent_id = kpv_izva19591100-05582_1az-04
 # text = Миян семяын дас морт.
 1	Миян	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
 2	семяын	семя	NOUN	N	Case=Ine|Number=Sing	0	root	_	Lang=Mixed
@@ -6,7 +6,7 @@
 4	морт	морт	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-05
+# sent_id = kpv_izva19591100-05582_1az-05
 # text = Бать, мам, сизим чой да ӧтик вок.
 1	Бать	бать	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
@@ -19,14 +19,14 @@
 9	вок	вок	NOUN	N	Case=Nom|Number=Sing	1	list	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-07
+# sent_id = kpv_izva19591100-05582_1az-07
 # text = Мама уджалӧ колхозын.
 1	Мама	мама	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	Lang=Mixed
 2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	колхозын	колхоз	NOUN	N	Case=Ine|Number=Sing	2	obl	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-08
+# sent_id = kpv_izva19591100-05582_1az-08
 # text = Куим чой велӧдчӧны колаын.
 1	Куим	Куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	3	nummod	_	_
 2	чой	чой	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -34,7 +34,7 @@
 4	колаын	кола	NOUN	N	Case=Ine|Number=Sing	3	obl	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-09
+# sent_id = kpv_izva19591100-05582_1az-09
 # text = Кык чой ветлӧны дедьсаде.
 1	Кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	2	nummod	_	_
 2	чой	чой	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -42,7 +42,7 @@
 4	дедьсаде	дедьсаде	NOUN	N	Case=Ill|Number=Sing	3	obl	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-11
+# sent_id = kpv_izva19591100-05582_1az-11
 # text = Миян выйым асланум, керка, мӧс, ыж, кукань.
 1	Миян	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 2	выйым	выйым	PART	Pcle	_	5	cop	_	_
@@ -57,14 +57,14 @@
 11	кукань	кукань	NOUN	N	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-12
+# sent_id = kpv_izva19591100-05582_1az-12
 # text = Ми вӧдитам картапель.
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	картапель	картапель	NOUN	N	Case=Acc|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-13
+# sent_id = kpv_izva19591100-05582_1az-13
 # text = Ме эштӧді сизим класс.
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	эштӧді	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -72,7 +72,7 @@
 4	класс	класс	NOUN	N	Case=Acc|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-14
+# sent_id = kpv_izva19591100-05582_1az-14
 # text = Нӧшта ме эштӧді педучилище.
 1	Нӧшта	нӧшта	ADV	Adv	_	3	advmod	_	_
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -80,7 +80,7 @@
 4	педучилище	педучилище	NOUN	N	Case=Acc|Number=Sing	3	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-15
+# sent_id = kpv_izva19591100-05582_1az-15
 # text = Педучилище бӧрын ме куим во велӧді челядьӧс.
 1	Педучилище	педучилище	NOUN	N	Case=Nom|Number=Sing	6	obl	_	Lang=Mixed
 2	бӧрын	бӧрын	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
@@ -91,7 +91,7 @@
 7	челядьӧс	челядь	NOUN	N	Case=Acc|Number=Sing	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-16
+# sent_id = kpv_izva19591100-05582_1az-16
 # text = А ӧні ачум велӧдча.
 1	А	а	PART	Pcle	_	4	mark	_	Lang=Mixed
 2	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
@@ -99,7 +99,7 @@
 4	велӧдча	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id =  kpv_izva19591100-05582_1az-17
+# sent_id = kpv_izva19591100-05582_1az-17
 # text = Всё.
 1	Всё	Всё	PRON	Pron	Number=Sing	0	root	_	Lang=Mixed|SpaceAfter=No
 2	.	.	PUNCT	CLB	_	1	punct	_	_
