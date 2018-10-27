@@ -1345,7 +1345,6 @@
 # sent_id = kpv_izva20150403-3-b.0182
 # text = Только вот сы мында и мыйке, такое детство у нас было.
 # text_rus =
-# questions = такое детство, if annotated as in Russian treebanks, should apparently get relation amod.
 1	Только	только	ADV	Adv	_	4	advmod	_	Lang=Rus
 2	вот	вот	PART	Pcle	_	4	discourse	_	Lang=Rus
 3	сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
