@@ -2,7 +2,7 @@
 # text = Миян семяын дас морт.
 1	Миян	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
 2	семяын	семя	NOUN	N	Case=Ine|Number=Sing	0	root	_	Lang=Mixed
-3	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	4	nummod	_	_
+3	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
 4	морт	морт	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -12,10 +12,10 @@
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	мам	мам	NOUN	N	Case=Nom|Number=Sing	1	list	_	Lang=Mixed|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	сизим	сизим	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	6	nummod	_	_
+5	сизим	сизим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	_
 6	чой	чой	NOUN	N	Case=Nom|Number=Sing	1	list	_	_
 7	да	да	CCONJ	CC	_	9	cc	_	Lang=Mixed
-8	ӧтик	ӧтик	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	9	nummod	_	_
+8	ӧтик	ӧтик	NUM	Num	Case=Nom|Number=Sing|NumType=Card	9	nummod	_	_
 9	вок	вок	NOUN	N	Case=Nom|Number=Sing	1	list	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	1	punct	_	_
 
@@ -28,7 +28,7 @@
 
 # sent_id = kpv_izva19591100-05582_1az-08
 # text = Куим чой велӧдчӧны колаын.
-1	Куим	Куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	2	nummod	_	_
+1	Куим	Куим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	_
 2	чой	чой	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 3	велӧдчӧны	велӧдчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	колаын	кола	NOUN	N	Case=Ine|Number=Sing	3	obl	_	Lang=Mixed|SpaceAfter=No
@@ -36,7 +36,7 @@
 
 # sent_id = kpv_izva19591100-05582_1az-09
 # text = Кык чой ветлӧны дедьсаде.
-1	Кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	2	nummod	_	_
+1	Кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	_
 2	чой	чой	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 3	ветлӧны	ветлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	дедьсаде	дедьсаде	NOUN	N	Case=Ill|Number=Sing	3	obl	_	Lang=Mixed|SpaceAfter=No
@@ -68,7 +68,7 @@
 # text = Ме эштӧді сизим класс.
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	эштӧді	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	сизим	сизим	NUM	Num	Case=Acc|Number=Sing|NumType=Card,Ord	4	nummod	_	_
+3	сизим	сизим	NUM	Num	Case=Acc|Number=Sing|NumType=Card	4	nummod	_	_
 4	класс	класс	NOUN	N	Case=Acc|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -260,7 +260,7 @@
 11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	вермы	вермыны	VERB	V	Connegative=Yes	1	conj	_	_
 13	сыа	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-14	сэтшем	сэтшӧм	DET	Det	Case=Nom|Number=Sing	15	amod	_	_
+14	сэтшем	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	amod	_	_
 15	условиеясас	условие	NOUN	N	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	Lang=Mixed|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	1	punct	_	_
 
@@ -621,7 +621,7 @@
 7	висьтооны	висьтооны	VERB	V	VerbForm=Inf	11	mark	_	_
 8	ке	ке	SCONJ	CS	_	7	discourse	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	мӧдэд	мӧдэд	NUM	Num	Case=Prl|NumType=Card	11	nummod	_	_
+10	мӧдэд	мӧдэд	NUM	Num	Case=Prl|NumType=Ord	11	nummod	_	_
 11	бригада	бригада	NOUN	N	Case=Nom|Number=Sing	4	conj	_	Lang=Mixed|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
 13	да	да	PART	Pcle	_	11	discourse	_	Lang=Mixed|SpaceAfter=No
@@ -803,7 +803,7 @@
 7	что	что	SCONJ	CS	_	6	goeswith	_	Lang=Rus
 8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	мӧдэд	мӧдэд	NUM	Num	Case=Prl|NumType=Card	11	nummod	_	_
+10	мӧдэд	мӧдэд	NUM	Num	Case=Prl|NumType=Ord	11	nummod	_	_
 11	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
 13	да	да	PART	Pcle	_	11	discourse	_	Lang=Mixed|SpaceAfter=No
@@ -1011,7 +1011,7 @@
 3	кӧнечнэ	конечно	ADV	Adv	_	10	discourse	_	Lang=Mixed
 4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	3	punct	_	_
-6	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card,Ord	7	nmod	_	_
+6	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nmod	_	_
 7	лун	лун	NOUN	N	Case=Nom|Number=Sing	10	obl	_	_
 8	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 9	в	в	ADP	Pr	_	10	case	_	Lang=Rus
@@ -1063,7 +1063,7 @@
 5	быд	быд	DET	Det	_	6	det	_	_
 6	лун	лун	NOUN	N	Case=Nom|Number=Sing	3	advmod	_	_
 7	с	с	ADP	Pr	_	8	case	_	Lang=Rus
-8	десяти	десять	NUM	Num	NumType=Card,Ord	3	nmod	_	Lang=Rus
+8	десяти	десять	NUM	Num	NumType=Card	3	nmod	_	Lang=Rus
 9	до	до	ADP	Pr	_	10	case	_	Lang=Rus
 10	часу	час	NOUN	N	Case=Dat|Number=Sing	3	nmod	_	Lang=Rus|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -1305,7 +1305,7 @@
 # text = Вот татшӧм половозрастнӧй разделенньӧ миян выйым коми кыв кузя.
 # text_rus =
 1	Вот	вот	PART	Pcle	_	5	discourse	_	Lang=Rus
-2	татшӧм	татшӧм	DET	Det	Case=Nom|Number=Sing	4	det	_	_
+2	татшӧм	татшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
 3	половозрастнӧй	половозрастнӧй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=Mixed
 4	разделенньӧ	разделенньӧ	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	Lang=Mixed
 5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	0	root	_	_
