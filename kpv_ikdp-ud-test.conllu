@@ -396,7 +396,7 @@
 # text_eng = I was born on the 11th of May, 1961.
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
-3	одиннадцатого	одиннадцатого	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=Rus
+3	одиннадцатого	одиннадцать	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=Rus
 4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=Rus
 5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=Rus|Note=Check
 6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=Rus
@@ -488,7 +488,7 @@
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 6	вӧйна	вӧйна	NOUN	N	Case=Nom|Number=Sing	10	obl	_	Lang=Mixed
-7	вылэ	выв	ADP	Po	Case=Ill|Number=Sing	6	case	_	_
+7	вылэ	вылын	ADP	Po	Case=Ill|Number=Sing	6	case	_	_
 8	зэй	зэй	ADV	Adv	_	9	advmod	_	_
 9	водз	водз	ADV	Adv	Case=Nom|Number=Sing	10	advmod	_	_
 10	сюрліс	сюрлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -522,7 +522,7 @@
 11	сорок	сорок	NUM	Num	NumType=Card	12	nummod	_	Lang=Rus
 12	первей	первей	ADJ	A	Case=Nom|Number=Sing	13	nummod	_	Lang=Rus
 13	год	год	NOUN	N	Case=Nom|Number=Sing	2	conj	_	Lang=Mixed
-14	вылэ	выв	ADP	Po	Case=Ill|Number=Sing	13	case	_	SpaceAfter=No
+14	вылэ	вылын	ADP	Po	Case=Ill|Number=Sing	13	case	_	SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
 16	а	а	CCONJ	CC	_	20	cc	_	_
 17	двадцать	двадцать	NUM	Num	NumType=Card	18	nummod	_	Lang=Rus
@@ -542,7 +542,7 @@
 31	ае	ай	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	32	nsubj	_	_
 32	мунэма	мунны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	ccomp	_	_
 33	вӧйна	вӧйна	NOUN	N	Case=Nom|Number=Sing	32	obl	_	_
-34	вылэ	выв	ADP	Po	Case=Ill|Number=Sing	33	case	_	SpaceAfter=No
+34	вылэ	вылын	ADP	Po	Case=Ill|Number=Sing	33	case	_	SpaceAfter=No
 35	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = temporary_id.26
@@ -638,7 +638,7 @@
 5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod	_	_
 6	вӧрзялісныс	вӧрзявны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	Из	из	PROPN	N	Case=Nom|Number=Sing	6	obl	_	_
-8	сае	сай	ADP	Po	Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
+8	сае	сайын	ADP	Po	Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
 
 # sent_id = kpv_izva20150411-1-b-0019
@@ -795,7 +795,7 @@
 # text_rus = Только езжу за Урал, потому что второй день, да, мой уже там начался.
 # text_eng =
 1	Из	из	PROPN	N	Case=Nom	4	obl	_	_
-2	сае	сай	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
+2	сае	сайын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
 3	токо	токо	ADV	Adv	_	4	advmod	_	Lang=Mixed
 4	ветлала	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
@@ -964,10 +964,10 @@
 6	эта	этайӧ	PRON	Pron	Number=Sing|PronType=Dem	4	discourse	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
 8	бабаясыс	баба	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
-9	доре	дор	ADP	Po	Case=Ill|Number=Sing	8	case	_	_
+9	доре	дорын	ADP	Po	Case=Ill|Number=Sing	8	case	_	_
 10	или	или	CCONJ	CC	_	13	cc	_	Lang=Mixed
 11	сы	сійӧ	PRON	Pron	_	13	obl	_	_
-12	доре	дор	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
+12	доре	дорын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
 13	ваедісны	ваедны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
 15	медланнэ	медланнэ	ADV	Adv	_	16	advmod	_	_
@@ -1078,7 +1078,7 @@
 4	удовольствием	удовольствие	NOUN	N	Case=Ins|Number=Sing	5	obl	_	Lang=Rus
 5	муна	мунны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	кӧр	кӧр	NOUN	N	Case=Nom|Number=Sing	5	obl	_	_
-7	дорас	дор	ADP	Po	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	case	_	SpaceAfter=No
+7	дорас	дорын	ADP	Po	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	case	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = kpv_izva20140330-1-b-336
@@ -1276,7 +1276,7 @@
 # text_rus =
 1	Выль	выл	ADJ	A	Case=Nom|Number=Sing	2	nmod	_	_
 2	во	во	NOUN	N	Case=Nom|Number=Sing	7	obl	_	_
-3	бӧрас	бӧр	ADP	Po	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	case	_	SpaceAfter=No
+3	бӧрас	бӧрын	ADP	Po	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	case	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
 5	значит	значит	PART	Pcle	_	7	appos	_	Lang=Rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
