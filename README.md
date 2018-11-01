@@ -4,7 +4,7 @@ This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The cu
 
 # Introduction
 
-The materials have been collected within Iźva Komi Documentation Project, funded by Kone Foundation in 2014-2016, and archived in [The Language Archive](https://tla.mpi.nl/). The work with treebanks connects to follow-up project that focuses into Komi syntax, [IKDP-2](https://langdoc.github.io/IKDP-2/). The transcriptions have been done by native speakers, and the orthographic transcription system, although matching when applicable Komi orthography, is primarily phonemic. The data in this treebank represents only the northern Iźva dialect of Komi, but also materials from other dialects will be included. The `sent_id` values match with those in archived IKDP corpus, and `+` character is used to mark sentence id's that span across multiple annotations.
+The materials have been collected within Iźva Komi Documentation Project, funded by Kone Foundation in 2014-2016, and archived in [The Language Archive](https://tla.mpi.nl/). During the end of 2018 the entire audio-visual corpus language documentation will be transferred into a new repository, which will be more thoroughly linked to the treebanks. The work with treebanks connects to follow-up project that focuses into Komi syntax, [IKDP-2](https://langdoc.github.io/IKDP-2/). The transcriptions have been done by native speakers, and the orthographic transcription system, although matching when applicable Komi orthography, is primarily phonemic. The data in this treebank represents only the northern Iźva dialect of Komi, but also materials from other dialects will be included. The `sent_id` values match with those in archived IKDP corpus, and `+` character is used to mark sentence id's that span across multiple annotations.
 
 The corpus contains portions of recordings done between 1959 and 2016. Part of the texts have been originally published by Eric Vászolyi-Vasse in Specimina Sibirica serie's Syrjaenica parts I-III. The materials are reproduced here by the permission of the publisher.
 
@@ -21,6 +21,11 @@ Thanks for LATTICE-CNRS laboratory and Kone Foundation for supporting the work.
 Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Levchenko, Dmitriy; Partanen, Niko and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
 
 Partanen, Niko; Blokland, Rogier; Lim, KyungTae; Poibeau, Thierry and Rießler, Michael 2018: [First Komi-Zyrian Universal Dependencies Treebanks](http://universaldependencies.org/udw18/PDFs/28_Paper.pdf)
+
+# Changelog
+
+- 2018-11-01
+    - README file updated and various improvements done
 
 # Changelog
 
