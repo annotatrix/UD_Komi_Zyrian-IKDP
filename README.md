@@ -1,6 +1,6 @@
 # Summary
 
-This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The current texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken. 
+This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The current texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken.
 
 # Introduction
 
@@ -22,15 +22,13 @@ If you use this treebank in your work, please cite:
 
 - Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Levchenko, Dmitriy; Partanen, Niko and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
 
-- Vászolyi Erik 1999: *Syrjaenica: narratives, folklore and folk poetry from eight dialects of the Komi language. Vol. 1, Upper Izhma, Lower Ob, Kanin Peninsula, Upper Jusva, Middle Inva, Udora*. Savariae. 
+- Vászolyi Erik 1999: *Syrjaenica: narratives, folklore and folk poetry from eight dialects of the Komi language. Vol. 1, Upper Izhma, Lower Ob, Kanin Peninsula, Upper Jusva, Middle Inva, Udora*. Savariae.
 
 
 # Changelog
 
 - 2018-11-01
     - README file updated and various improvements done
-
-# Changelog
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
