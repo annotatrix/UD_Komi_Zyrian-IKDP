@@ -134,7 +134,7 @@
 1	Десятой	десятой	NUM	Num	NumType=Card	2	nummod	_	Lang=Rus
 2	класс	класс	NOUN	N	Case=Nom|Number=Sing	3	obl	_	Lang=Mixed
 3	закончитэм	закончитны	VERB	V	Tense=Past|VerbForm=Part	12	advcl	_	Lang=Mixed
-4	бӧрын	бӧр	ADV	Adv	Case=Ine	3	advmod	_	SpaceAfter=No
+4	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	3	case	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	гожемъяснас	гожем	NOUN	N	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -1215,7 +1215,7 @@
 11	,	,	PUNCT	CLB	_	10	punct	_	_
 12	чё	чё	PART	Pcle	_	15	obj	_	Lang=Rus|SpaceAfter=No|Note=Check
 13	-	-	PUNCT	CLB	_	12	punct	_	SpaceAfter=No
-14	то	чё-то	PART	Pcle	_	12	goeswith	_	Lang=Rus
+14	то	чё-то	PART	Pcle	_	12	discourse	_	Lang=Rus
 15	делал	делать	VERB	V	Number=Sing	4	conj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -1244,7 +1244,7 @@
 7	но	но	CCONJ	CC	_	11	cc	_	Lang=Mixed
 8	какой	какой	DET	Det	_	11	amod	_	Lang=Rus|SpaceAfter=No
 9	-	-	PUNCT	CLB	_	8	punct	_	SpaceAfter=No
-10	то	то	ADV	Adv	_	8	goeswith	_	Lang=Rus
+10	то	то	ADV	Adv	_	8	discourse	_	Lang=Rus
 11	процент	процент	NOUN	N	Case=Nom|Number=Sing	5	acl	_	Lang=Rus
 12	там	там	ADV	Adv	_	11	advmod	_	Lang=Rus|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	12	punct	_	_
@@ -1413,7 +1413,7 @@
 3	,	_	PUNCT	CLB	_	2	punct	_	_
 4	ребята	ребята	NOUN	N	Case=Nom|Number=Plur	9	nsubj	_	Lang=Rus|SpaceAfter=No
 5	-	-	PUNCT	CLB	_	4	punct	_	SpaceAfter=No
-6	то	то	PART	Pcle	_	4	goeswith	_	Lang=Rus
+6	то	то	PART	Pcle	_	4	discourse	_	Lang=Rus
 7	у	у	ADP	Pr	_	8	case	_	Lang=Rus
 8	меня	я	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=Rus
 9	большие	большой	ADJ	A	Case=Nom|Number=Plur	2	appos	_	Lang=Rus|SpaceAfter=No
