@@ -676,7 +676,7 @@
 17	,	,	PUNCT	CLB	_	18	punct	_	_
 18	бур	бур	ADJ	A	Case=Nom|Number=Sing	12	conj	_	_
 19	лоо	лоны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
-20	ставыс	став	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	nsubj	_	_
+20	ставыс	став	DET	Det	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	nsubj	_	_
 21	да	да	PART	Pcle	_	18	discourse	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	8	punct	_	_
 
