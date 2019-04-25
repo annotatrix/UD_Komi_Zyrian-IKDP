@@ -61,15 +61,15 @@
 # text = Ми вӧдитам картапель.
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	картапель	картапель	NOUN	N	Case=Acc|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
+3	картапель	картапель	NOUN	N	Case=Nom|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva19591100-05582_1az-13
 # text = Ме эштӧді сизим класс.
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	эштӧді	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	сизим	сизим	NUM	Num	Case=Acc|Number=Sing|NumType=Card	4	nummod	_	_
-4	класс	класс	NOUN	N	Case=Acc|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
+3	сизим	сизим	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
+4	класс	класс	NOUN	N	Case=Nom|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva19591100-05582_1az-14
@@ -77,7 +77,7 @@
 1	Нӧшта	нӧшта	ADV	Adv	_	3	advmod	_	_
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	эштӧді	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-4	педучилище	педучилище	NOUN	N	Case=Acc|Number=Sing	3	obj	_	Lang=Mixed|SpaceAfter=No
+4	педучилище	педучилище	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = kpv_izva19591100-05582_1az-15
@@ -124,7 +124,7 @@
 2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
-5	баб	баб	NOUN	N	Case=Acc|Number=Sing	4	nsubj	_	Lang=Mixed
+5	баб	баб	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	Lang=Mixed
 6	миянумес	ми	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -284,12 +284,12 @@
 # sent_id = kpv_izva20140325-2-a-020
 # text = Керкаяс стрӧитім, гаражъяс, баняяс.
 # text_rus =
-1	Керкаяс	керка	NOUN	N	Case=Acc|Number=Plur	2	obj	_	_
+1	Керкаяс	керка	NOUN	N	Case=Nom|Number=Plur	2	obj	_	_
 2	стрӧитім	стрӧитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	гаражъяс	гараж	NOUN	N	Case=Acc|Number=Plur	1	conj	_	Lang=Mixed|SpaceAfter=No
+4	гаражъяс	гараж	NOUN	N	Case=Nom|Number=Plur	1	conj	_	Lang=Mixed|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	баняяс	баня	NOUN	N	Case=Acc|Number=Plur	1	conj	_	Lang=Mixed|SpaceAfter=No
+6	баняяс	баня	NOUN	N	Case=Nom|Number=Plur	1	conj	_	Lang=Mixed|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_izva20140325-2-a-021+kpv_izva20140325-2-a-022
@@ -601,7 +601,7 @@
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	8	conj	_	Lang=Mixed
 12	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
-13	Красный	Красный	PROPN	N	Case=Acc|Number=Sing	0	root	_	Lang=Rus
+13	Красный	Красный	PROPN	N	Case=Nom|Number=Sing	0	root	_	Lang=Rus
 14	Октябрь	октябрь	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	Lang=Rus|SpaceAfter=No
 15	"	"	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	17	punct	_	_
@@ -1044,7 +1044,7 @@
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
 7	в	в	ADP	Pr	_	8	case	_	Lang=Rus
-8	глаза	глаз	NOUN	N	Case=Acc|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
+8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=Rus
 11	что	что	SCONJ	CS	_	10	fixed	_	Lang=Rus
@@ -1296,7 +1296,7 @@
 8	значит	значит	PART	Pcle	_	6	appos	_	Lang=Rus|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	8	punct	_	_
 10	лыж	лыж	NOUN	N	Case=Nom|Number=Sing	11	nmod	_	Lang=Rus
-11	комплект	комплект	NOUN	N	Case=Acc|Number=Sing	6	obj	_	Lang=Rus|SpaceAfter=No
+11	комплект	комплект	NOUN	N	Case=Nom|Number=Sing	6	obj	_	Lang=Rus|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	11	punct	_	_
 13	да	да	PART	Pcle	_	6	discourse	_	Lang=Mixed|SpaceAfter=No
 14	?	?	PUNCT	CLB	_	6	punct	_	_
@@ -1505,7 +1505,7 @@
 # text = Сэн олі сутки.
 1	Сэн	сэн	ADV	Adv	_	2	advmod	_	_
 2	олі	овны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Err/Dial,Sg3
-3	сутки	сутки	NOUN	N	Case=Acc|Number=Sing	2	obl	_	Lang=Mixed|GTtags=Sg,Acc|SpaceAfter=No
+3	сутки	сутки	NOUN	N	Case=Nom|Number=Sing	2	obl	_	Lang=Mixed|GTtags=Sg,Acc|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.010
@@ -1595,7 +1595,7 @@
 3	казяліс	казявны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	тятейсӧ	тятейсӧ	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	GTtags=Sg,Acc,PxSg3
-6	босьтӧм	босьтны	VERB	V	Case=Acc|Number=Sing	3	advcl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Acc|SpaceAfter=No
+6	босьтӧм	босьтны	VERB	V	Case=Nom|Number=Sing	3	advcl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Acc|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	и	и	CCONJ	CC	_	9	cc	_	Lang=Mixed
 9	пышйис	пышйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	GTtags=IV,Ind,Prt1,Sg3
@@ -1668,7 +1668,7 @@
 3	сы	сійӧ	PRON	Pron	PronType=Dem	4	det	_	GTtags=Dem
 4	туй	туй	NOUN	N	Case=Nom|Number=Sing	7	obl	_	GTtags=Sg,Nom
 5	кузя	кузя	ADP	Po	_	4	case	_	_
-6	турун	турун	NOUN	N	Case=Acc|Number=Sing	7	obj	_	GTtags=Sg,Acc
+6	турун	турун	NOUN	N	Case=Nom|Number=Sing	7	obj	_	GTtags=Sg,Acc
 7	кыскалӧны	кыскавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prs,Pl3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
 
