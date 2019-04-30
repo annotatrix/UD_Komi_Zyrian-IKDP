@@ -28,6 +28,8 @@ If you use this treebank in your work, please cite:
 
 # Changelog
 
+- 2019-04-30
+    - New sentences added and annotations harmonized
 - 2018-11-01
     - README file updated and various improvements done
 
