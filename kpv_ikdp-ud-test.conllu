@@ -911,8 +911,8 @@
 # text_eng =
 1	Пока	пока	ADV	Adv	_	2	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-3	из	oз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux	_	_
-4	ло	лоны	AUX	V	_	2	aux	_	SpaceAfter=No
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux	_	_
+4	ло	лоны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
