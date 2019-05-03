@@ -1323,10 +1323,10 @@
 3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
 5	песцы	песец	NOUN	N	Case=Nom|Number=Plur	2	appos	_	Lang=Rus
-6	были	быть	AUX	V	Number=Plur	5	aux	_	Lang=Rus|SpaceAfter=No
+6	были	быть	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	Lang=Rus|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
 8	норки	норка	NOUN	N	Case=Nom|Number=Plur	2	appos	_	Lang=Rus
-9	были	быть	AUX	V	Number=Plur	8	aux	_	Lang=Rus|SpaceAfter=No
+9	были	быть	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	Lang=Rus|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	9	punct	_	_
 
 # sent_id = kpv_izva20140325-2-a-279
@@ -1356,7 +1356,7 @@
 9	детство	детство	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Rus
 10	у	у	ADP	Pr	_	11	case	_	Lang=Rus
 11	нас	мы	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=Rus
-12	было	быть	AUX	V	Number=Sing	9	aux	_	Lang=Rus|SpaceAfter=No
+12	было	быть	AUX	V	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	Lang=Rus|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	9	punct	_	_
 
 # sent_id = kpv_izva20150403-3-b.1311
