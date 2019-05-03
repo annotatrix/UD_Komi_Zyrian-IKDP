@@ -93,7 +93,7 @@
 
 # sent_id = kpv_izva19591100-05582_1az-16
 # text = А ӧні ачум велӧдча.
-1	А	а	PART	Pcle	_	4	mark	_	Lang=Mixed
+1	А	а	CCONJ	CC	_	4	cc	_	Lang=Mixed
 2	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
 3	ачум	ас	PRON	_	Case=Nom|Number=Sing|Reflex=Yes	4	nmod	_	_
 4	велӧдча	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -336,7 +336,7 @@
 1	Медбӧрын	медбӧр	ADV	Adv	Case=Ine	2	advmod	_	_
 2	лэччылі	лэччывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	Нярьян-Маре	Нярьян-Мар	PROPN	N	Case=Ill|Number=Sing	2	obl	_	Lang=Mixed
-4	тоже	тоже	ADV	Adv	_	2	advmod	_	Lang=Mixed
+4	тоже	тожӧ	PART	Pcle	_	2	advmod	_	Lang=Mixed
 5	оленеводствоо	оленеводство	NOUN	N	Case=Ill|Number=Sing	2	obl	_	Lang=Mixed|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	Нарьян-Марскей	Нарьян-Марскей	ADJ	A	Case=Nom|Number=Sing	8	amod	_	Lang=Mixed
@@ -447,7 +447,7 @@
 # text = Значит, нёль чой и кык вок.
 # text_rus = Значит, четыре сестры и два брата.
 # text_eng = So, four sisters and two brothers.
-1	Значит	значит	PART	Pcle	_	4	mark	_	Lang=Rus|SpaceAfter=No
+1	Значит	значит	PART	Pcle	_	4	discourse	_	Lang=Rus|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
 4	чой	чой	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
@@ -484,7 +484,7 @@
 # label = check
 1	Эсся	эсся	ADV	Adv	_	10	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	значит	значит	PART	Pcle	_	10	advmod	_	Lang=Rus|SpaceAfter=No
+3	значит	значит	PART	Pcle	_	10	discourse	_	Lang=Rus|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 6	вӧйна	вӧйна	NOUN	N	Case=Nom|Number=Sing	10	obl	_	Lang=Mixed
@@ -648,7 +648,7 @@
 1	И	и	CCONJ	CC	_	5	cc	_	Lang=Mixed
 2	ӧні	ӧні	ADV	Adv	_	5	advmod	_	_
 3	бара	бара	ADV	Adv	_	5	advmod	_	_
-4	же	же	PART	Pcle	_	3	goeswith	_	Lang=Mixed
+4	же	жӧ	PART	Pcle	_	3	goeswith	_	Lang=Mixed
 5	мӧдісныс	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	вӧрзёоны	вӧрзьыны	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -837,7 +837,7 @@
 16	,	,	PUNCT	CLB	_	15	punct	_	_
 17	сы	сійӧ	PRON	Pron	PronType=Dem	18	det	_	_
 18	луннас	луннас	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	conj	_	_
-19	же	же	PART	Pcle	_	18	advmod	_	Lang=Mixed
+19	же	жӧ	PART	Pcle	_	18	discourse	_	Lang=Mixed
 20	вот	вот	PART	Pcle	_	22	discourse	_	Lang=Mixed|SpaceAfter=No
 21	,	,	PUNCT	CLB	_	20	punct	_	_
 22	тытэн	тытэн	ADV	Adv	_	3	advcl	_	_
@@ -859,7 +859,7 @@
 8	меам	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
 9	Салехард	Салехард	PROPN	N	Case=Nom|Number=Sing	10	nmod	_	_
 10	местэыс	местэыс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	conj	_	Lang=Mixed
-11	тоже	тоже	ADV	Adv	_	10	advmod	_	Lang=Mixed
+11	тоже	тожӧ	PART	Pcle	_	10	advmod	_	Lang=Mixed
 12	рӧднэй	рӧднӧй	ADJ	A	Case=Nom|Number=Sing	13	amod	_	Lang=Mixed
 13	рӧдина	рӧдина	NOUN	N	Case=Nom|Number=Sing	10	nmod	_	Lang=Mixed
 14	койд	койд	ADP	Po	_	13	case	_	SpaceAfter=No
@@ -889,7 +889,7 @@
 1	Маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	Lang=Mixed|Note=CheckAll
 2	вед	вед	PART	Pcle	_	1	discourse	_	_
 3	сэчем	сэчем	ADV	Adv	_	6	advmod	_	_
-4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed
+4	же	жӧ	PART	Pcle	_	3	discourse	_	Lang=Mixed
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
@@ -995,7 +995,7 @@
 14	,	,	PUNCT	CLB	_	15	punct	_	_
 15	только-только	только-только	ADV	Adv	_	16	advmod	_	Lang=Mixed
 16	пуктыны	пуктыны	VERB	V	VerbForm=Inf	6	conj	_	_
-17	и	и	PART	Pcle	_	18	cc	_	Lang=Mixed
+17	и	и	CCONJ	CC	_	18	cc	_	Lang=Mixed
 18	мӧдасы	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	16	conj	_	_
 19	воедны	воедны	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
 20	,	,	PUNCT	CLB	_	21	punct	_	_
@@ -1009,7 +1009,7 @@
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	кӧнечнэ	конечно	ADV	Adv	_	10	discourse	_	Lang=Mixed
-4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed|SpaceAfter=No
+4	же	жӧ	PART	Pcle	_	3	discourse	_	Lang=Mixed|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	3	punct	_	_
 6	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nmod	_	_
 7	лун	лун	NOUN	N	Case=Nom|Number=Sing	10	obl	_	_
@@ -1204,7 +1204,7 @@
 # text_rus =
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	ае	ай	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-3	тоже	тоже	PART	Pcle	_	4	discourse	_	_
+3	тоже	тожӧ	PART	Pcle	_	4	advmod	_	_
 4	рӧбитіс	рӧбитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	столярын	столяр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	Lang=Rus
 6	ли	ли	PART	Pcle	_	5	discourse	_	Lang=Mixed
@@ -1215,7 +1215,7 @@
 11	,	,	PUNCT	CLB	_	10	punct	_	_
 12	чё	чё	PART	Pcle	_	15	obj	_	Lang=Rus|SpaceAfter=No|Note=Check
 13	-	-	PUNCT	CLB	_	12	punct	_	SpaceAfter=No
-14	то	чё-то	PART	Pcle	_	12	discourse	_	Lang=Rus
+14	то	то	PART	Pcle	_	12	discourse	_	Lang=Rus
 15	делал	делать	VERB	V	Number=Sing	4	conj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_
 
