@@ -1681,7 +1681,7 @@
 5	каждэй	каждэй	ADV	Adv	_	6	advmod	_	Lang=Mixed
 6	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	GTtags=Card,Sg,Nom
 7	шаг	шаг	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
-8	вывті	вывті	ADP	Po	Case=Per|Number=Sing	7	case	_	GTtags=Sg,Tra
+8	вывті	вывті	ADP	Po	Case=Tra|Number=Sing	7	case	_	GTtags=Sg,Tra
 9	и	и	CCONJ	CC	_	15	cc	_	_
 10	сылӧн	сійӧ	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod	_	GTtags=Pers,Sg3,Gen
 11	сітан-улас	сітан-ув	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	obl	_	GTtags=Relat,Sg,Ill,PxSg3
@@ -1700,7 +1700,7 @@
 5	каждэй	каждэй	ADV	Adv	_	6	advmod	_	Lang=Mixed
 6	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	GTtags=Card,Sg,Nom
 7	шаг	шаг	NOUN	N	Case=Nom|Number=Sing	2	obl	_	GTtags=Sg,Nom
-8	вывті	вывті	ADP	Po	Case=Per|Number=Sing	7	case	_	GTtags=Sg,Tra
+8	вывті	вывті	ADP	Po	Case=Tra|Number=Sing	7	case	_	GTtags=Sg,Tra
 9	гуӧн	гу	NOUN	N	Case=Ins|Number=Sing	2	obl	_	GTtags=Sg,Ins|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
