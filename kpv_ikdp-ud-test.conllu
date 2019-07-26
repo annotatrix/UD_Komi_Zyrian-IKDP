@@ -1,11 +1,3 @@
-# sent_id = kpv_izva19591100-05582_1az-04
-# text = Миян семяын дас морт.
-1	Миян	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
-2	семяын	семя	NOUN	N	Case=Ine|Number=Sing	0	root	_	Lang=Mixed
-3	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
-4	морт	морт	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-5	.	.	PUNCT	CLB	_	2	punct	_	_
-
 # sent_id = kpv_izva19591100-05582_1az-05
 # text = Бать, мам, сизим чой да ӧтик вок.
 1	Бать	бать	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed|SpaceAfter=No
@@ -1740,11 +1732,18 @@
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = kpv_udo19420000SFOuVanejevMN-186.030
-# text = И сэтчӧ дик Иван куліс.
+# text = И сэтчӧ дик Павел куліс.
 1	И	и	CCONJ	CC	_	5	cc	_	Lang=Mixed
 2	сэтчӧ	сэтчӧ	ADV	Adv	Case=Ill	5	obl	_	GTtags=Ill
 3	дик	дик	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=Mixed|GTtags=Sg,Nom
 4	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Prop,Sg,Nom
-5	куліс	кувны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
+5	куліс	кувны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
+# sent_id = kpv_izva19591100-05582_1az-04
+# text = Миян семяын дас морт.
+1	Миян	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
+2	семяын	семя	NOUN	N	Case=Ine|Number=Sing	0	root	_	Lang=Mixed
+3	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
+4	морт	морт	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
